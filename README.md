@@ -1,3 +1,3 @@
 mlb-front-offices
 =============
-A Python web scraper for MLB front office directories.
+A simple Python web scraper for MLB front office directories.
