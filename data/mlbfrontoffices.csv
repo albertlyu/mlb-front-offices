@@ -1,257 +1,833 @@
-team,department,subdepartment,employee,title
-chc,Board of Directors,None,Tom Ricketts,Chairman
-chc,Board of Directors,None,Pete Ricketts,Board of Directors
-chc,Board of Directors,None,Laura Ricketts,Board of Directors
-chc,Board of Directors,None,Todd Ricketts,Board of Directors
-chc,Board of Directors,None,Tribune Company,Board of Directors
-chc,Baseball Operations,None,Theo Epstein,"President, Baseball Operations"
-chc,Baseball Operations,None,Jed Hoyer,"Executive Vice President, General Manager"
-chc,Baseball Operations,None,Randy Bush,Assistant General Manager
-chc,Baseball Operations,None,Shiraz Rehman,Assistant General Manager
-chc,Baseball Operations,None,Joe Bohringer,"Director, Pro Scouting"
-chc,Baseball Operations,None,Scott Harris,"Director, Baseball Operations"
-chc,Baseball Operations,None,Chris Moore,"Director, Research & Development"
-chc,Baseball Operations,None,Bobby Basham,"Assistant Director, Advance Scouting & Major League Strategy"
-chc,Baseball Operations,None,Billy Williams,Senior Advisor
-chc,Baseball Operations,None,Tim Wilken,Special Assistant to the President/General Manager
-chc,Baseball Operations,None,Kyle Evans,"Special Assistant to President & G.M./Director, Video & Advance Scouting"
-chc,Baseball Operations,None,Anthony Iapoce,"Special Assistant to the GM, Player Development"
-chc,Baseball Operations,None,Louis Eljaua,"Special Assistant to the General Manager/Director, International Scouting"
-chc,Baseball Operations,None,Andrew Bassett,"Coordinator, Pro Scouting"
-chc,Baseball Operations,None,Naoto Masamoto,"Coordinator, Major League Video/Pacific Liaison"
-chc,Baseball Operations,None,Mitchell Duggins,"Coordinator, Scouting & P.D. Video"
-chc,Baseball Operations,None,Nate Halm,"Coordinator, Advance Scouting"
-chc,Baseball Operations,None,Jeff Greenberg,"Coordinator, Baseball Operations"
-chc,Baseball Operations,None,Hayley DeWitte,Executive Assistant to President/GM
-chc,Baseball Operations,None,Vijay Tekchandani,Traveling Secretary
-chc,Baseball Operations,None,Jeremy Greenhouse,"Analyst, Research & Development"
-chc,Baseball Operations,None,Sean Ahmed,"Assistant, Research & Development"
-chc,Player Development and Amateur Scouting,None,Jason McLeod,"Senior Vice President, Player Development and Amateur Scouting"
-chc,Player Development and Amateur Scouting,None,Jaron Madison,"Director, Player Development"
-chc,Player Development and Amateur Scouting,None,Matt Dorey,"Director, Amateur Scouting"
-chc,Player Development and Amateur Scouting,None,Lukas McKnight,"Assistant Director, Amateur Scouting"
-chc,Player Development and Amateur Scouting,None,Alex Suarez,"Assistant Director, Player Development/International Scouting"
-chc,Player Development and Amateur Scouting,None,Tim Cossins,Minor League Field Coordinator
-chc,Player Development and Amateur Scouting,None,Carmelo Martinez,Minor League Hitting Coordinator - SA/R/DSL
-chc,Player Development and Amateur Scouting,None,Derek Johnson,Minor League Pitching Coordinator
-chc,Player Development and Amateur Scouting,None,Jose Flores,Minor League Infield Coordinator
-chc,Player Development and Amateur Scouting,None,Sam Hughes,National Crosschecker
-chc,Player Development and Amateur Scouting,None,Ronald Tostenson,National Crosschecker
-chc,Player Development and Amateur Scouting,None,Steve Riha,Regional Crosschecker
-chc,Player Development and Amateur Scouting,None,Chuck Baughman,Assistant Minor League Training Coordinator
-chc,Player Development and Amateur Scouting,None,Nick Frangella,Head Minor Athletic Training and Performance Coordinator
-chc,Player Development and Amateur Scouting,None,Doug Jarrow,Minor League Strength and Conditioning Coordinator
-chc,Player Development and Amateur Scouting,None,Reynold Fuentes,"Coordinator, Cultural Programs"
-chc,Player Development and Amateur Scouting,None,Derrick Fong,"Coordinator, Minor League Administration"
-chc,Player Development and Amateur Scouting,None,Shane Farrell,Amateur Scouting Assistant
-chc,Player Development and Amateur Scouting,None,Kenny Socorro,Player Development/International Scouting Assistant
-chc,Player Development and Amateur Scouting,None,Dana Noeltner,Equipment Manager
-chc,Player Development and Amateur Scouting,None,Sam DeChristopher,Minor League Assistant Clubhouse Manager
-chc,Media Relations,None,Peter Chase,"Director, Media Relations"
-chc,Media Relations,None,Jason Carr,"Assistant Director, Media Relations"
-chc,Media Relations,None,Dusty Harrington,"Coordinator, Media Relations"
-chc,Media Relations,None,Safdar Khan,"Assistant, Media Relations"
-chc,Medical/Training Staff,None,"Stephen Adams, M.D.",Team Physician
-chc,Medical/Training Staff,None,"Stephen Gryzlo, M.D.",Team Orthopaedist
-chc,Medical/Training Staff,None,"Michael Schafer, M.D.",Orthopaedic Consultant
-chc,Medical/Training Staff,None,Mark O'Neal,"Director, Medical Administration"
-chc,Medical/Training Staff,None,P.J. Mainville,Major League Athletic Trainer
-chc,Medical/Training Staff,None,Ed Halbur,Major League Assistant Athletic Trainer
-chc,Medical/Training Staff,None,Matt Johnson,Major League Assistant Athletic Trainer
-chc,Medical/Training Staff,None,Tim Buss,Strength and Conditioning Coordinator
-chc,Medical/Training Staff,None,Vyacheslav Kodryan,Major League Massage Therapist
-chc,Clubhouse Staff,None,Tom Hellmann,Home Clubhouse Manager
-chc,Clubhouse Staff,None,Mike Burkhart,Visiting Clubhouse Manager
-chc,Clubhouse Staff,None,Gary Stark,Home Clubhouse Assistant
-chc,Business Operations,None,Crane Kenney,"President, Business Operations"
-chc,Business Operations,None,Mark McGuire,"Executive Vice President, Business Operations"
-chc,Business Operations,None,Lorraine Swiatly,Executive Assistant to the Chairman
-chc,Business Operations,None,Sarah Poontong,"Executive Coordinator, Business Operations"
-chc,Mesa Operations,None,Justin Piper,"General Manager, Mesa Spring Training  Business Operations"
-chc,Mesa Operations,None,John Knight,"Spring Training, Director of Facility and Fields"
-chc,Mesa Operations,None,Michael McAdams,"Director, Sales - Spring Training"
-chc,Strategy & Development,None,Alex Sugarman,"Senior Vice President, Strategy and Development"
-chc,Strategy & Development,None,Jason Sondag,"Director, Strategy & Development"
-chc,Strategy & Development,None,A.J. Riddell,Strategy & Development Financial Analyst
-chc,Accounting,None,Jon Greifenkamp,"Vice President, Chief Financial Officer"
-chc,Accounting,None,Patrick Meenan,"Director, Sourcing & Procurement"
-chc,Accounting,None,Jamie Norton,"Assistant Director, Finance and Risk Management"
-chc,Accounting,None,Mike Van Poucke,Assistant Controller
-chc,Accounting,None,Theresa Bacholzky,"Manager, Disbursements and Collections"
-chc,Accounting,None,Marian Greene,Senior Accountant
-chc,Accounting,None,Katie Tresnowski,Senior Accountant
-chc,Accounting,None,Mario Becerra,Staff Accountant
-chc,Accounting,None,Georgia Boulougouris,Payroll Specialist
-chc,Accounting,None,Millie Lucero,"Coordinator, Accounts Payable"
-chc,Accounting,None,Laura Kisling,Accounting Financial Analyst
-chc,Accounting,None,Neal Gettling,Business Analyst
-chc,Human Resources,None,Bryan Robinson,"Vice President, Human Resources"
-chc,Human Resources,None,Marisol Widmayer,"Human Resource Manager, Organization and Staffing"
-chc,Human Resources,None,Danielle Alexa,"Human Resource Manager, Ballpark Operations"
-chc,Human Resources,None,Rachel Rush,"Human Resource Manager, Program Development"
-chc,Human Resources,None,Jorge Quezada,"Coordinator, Benefits"
-chc,Human Resources,None,Dino Stiris,HRIS Coordinator
-chc,Ballpark Operations,None,Carl Rice,"Vice President, Ballpark Operations"
-chc,Ballpark Operations,None,Matt Kenny,"Senior Director, Wrigley Field Event Operations"
-chc,Ballpark Operations,None,Tim Owens,"Director, Facilities"
-chc,Ballpark Operations,None,James Reynolds,"Director, Safety & Security Operations"
-chc,Ballpark Operations,None,Jahaan Blake,"Director, Fan Experiences"
-chc,Ballpark Operations,None,Hannah Basinger,"Assistant Director, Guest Services"
-chc,Ballpark Operations,None,Derek Crawford,"Assistant Director, Event Operations & Security"
-chc,Ballpark Operations,None,Russell Johnson,"Manager, Facility Maintenance"
-chc,Ballpark Operations,None,Julius Farrell,"Supervisor, Safety & Security"
-chc,Ballpark Operations,None,Randy Skocz,"Senior Coordinator, Office Services"
-chc,Ballpark Operations,None,Roger Baird,Head Groundskeeper
-chc,Ballpark Operations,None,Justin Spillman,Assistant Head Groundskeeper
-chc,Ballpark Operations,None,Bill Scott,"Supervisor, Stadium Cleaning"
-chc,Ballpark Operations,None,Ryan Mortensen,"Coordinator, Parking and Exterior Event Operations"
-chc,Ballpark Operations,None,Kelly Bilbrey,Event Services Schedule and Payroll Assistant
-chc,Ballpark Operations,None,Becky Rasor,Administrative Assistant/Associate Events Coordinator
-chc,Information Technology,None,Andrew McIntyre,"Senior Director, Information Technology"
-chc,Information Technology,None,Steve Inman,"Manager, Application Development"
-chc,Information Technology,None,Sundeep Bhatia,"Manager, IT Infrastructure & Operations"
-chc,Information Technology,None,Lucas Luecke,Senior Telecommunication Analyst
-chc,Information Technology,None,Chris Brummett,Data Architect
-chc,Information Technology,None,Kevin Kirkpatrick,Systems Analyst
-chc,Information Technology,None,Kayvon Ali,Database Developer
-chc,Information Technology,None,Tom Dambra,Application Developer
-chc,Information Technology,None,Megan Wells,Service Desk Analyst
-chc,Information Technology,None,Joel Guth,System Administrator
-chc,Community Affairs,None,Michael Lufrano,"Executive Vice President, Community Affairs/General Counsel"
-chc,Community Affairs,None,Connie Falcone,"Director, Community Affairs "
-chc,Community Affairs,None,Kam Buckner,"Manager, Government & Neighborhood Relations "
-chc,Community Affairs,None,Jennifer Dedes Nowak,"Manager, Chicago Cubs Charities Programs"
-chc,Community Affairs,None,Abby Silverman,"Coordinator, Community Events"
-chc,Community Affairs,None,Molly Oelerich,"Coordinator, Community Programs"
-chc,Community Affairs,None,John Andres,Community Affairs Associate
-chc,Community Affairs,None,Jeff Magee,Community Affairs Associate
-chc,Community Affairs,None,Brittany Burcham,"Executive Assistant, Community Affairs"
-chc,Legal,None,Lydia Wahlke,Assistant General Counsel
-chc,Legal,None,Mike Feldman,Counsel
-chc,Communications,None,Julian Green,"Vice President, Communications and Community Affairs"
-chc,Communications,None,Kevin Saghy,"Manager, Communications"
-chc,Communications,None,Mary Reisert,Social Media and Public Relations Assistant
-chc,Marketing Department,None,Alison Miller,"Senior Director, Marketing"
-chc,Marketing Department,None,Joe Rios,"Manager, Broadcast Relations"
-chc,Marketing Department,None,Jim Oboikowitch,"Manager, Game & Event Production"
-chc,Marketing Department,None,John Morrison,"Manager, Brand Activation"
-chc,Marketing Department,None,Kaitlyn August,"Coordinator, Entertainment & Event Production"
-chc,Marketing Department,None,Stephanie Shaw,"Coordinator, Brand Initiatives"
-chc,Marketing Department,None,Lyndsey Wittemann,"Coordinator, Authentics and Licensing"
-chc,Sales and Partnerships,None,Colin Faulkner,"Vice President, Sales and Partnerships"
-chc,Sales and Partnerships,None,Allen Hermeling,"Senior Director, Corporate Partnerships"
-chc,Sales and Partnerships,None,Brian O'Connor,"Assistant Director, Corporate Partnerships Sales Operations"
-chc,Sales and Partnerships,None,Alex Seyferth,Account Executive
-chc,Sales and Partnerships,None,Ashley Strid,Account Executive
-chc,Sales and Partnerships,None,Ryan Balogh,Account Manager
-chc,Sales and Partnerships,None,Andrea Burke,Account Manager
-chc,Sales and Partnerships,None,Piper Mead,Account Manager
-chc,Sales and Partnerships,None,Carrie Collins,Activation Specialist
-chc,Sales and Partnerships,None,Lauren Shadid,Activation Specialist
-chc,Sales and Partnerships,None,Adriana Villanueva,Activation Specialist
-chc,Sales and Partnerships,None,Ashley Beirne,Sales Specialist
-chc,Sales and Partnerships,None,Lauren McIntyre,Sales Specialist
-chc,Sales and Partnerships,None,Natalie McKerjee,Sales Specialist
-chc,Sales and Partnerships,None,Jamie King,"Coordinator, Corporate Partnerships"
-chc,Sales and Partnerships,None,Andy Blackburn,"Director, Ticket Sales"
-chc,Sales and Partnerships,None,Nathan Strick,"Manager, Chicago Cubs Sales Development Program & Group Sales"
-chc,Sales and Partnerships,None,Evans Adonis,"Account Executive, Premier Sales "
-chc,Sales and Partnerships,None,Louis Artiaga,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,None,Tom Grossinger,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,None,Brittany Hilton,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,None,Colleen Pastuovic,"Sales Specialist, Premier Sales"
-chc,Sales and Partnerships,None,Steve Brauer,Group Sales Representative
-chc,Sales and Partnerships,None,Jason Tuton,Group Sales Representative
-chc,Sales and Partnerships,None,Tony Battaglia,Ticket Sales Representative
-chc,Sales and Partnerships,None,Abbie Brewer,Ticket Sales Representative
-chc,Sales and Partnerships,None,Diego Chahda,Ticket Sales Representative
-chc,Sales and Partnerships,None,Lance Chapple,Ticket Sales Representative
-chc,Sales and Partnerships,None,Jacob Gilbertson,Ticket Sales Representative
-chc,Sales and Partnerships,None,Mike Kluczny,Ticket Sales Representative
-chc,Sales and Partnerships,None,Chelsea Naylor,Ticket Sales Representative
-chc,Sales and Partnerships,None,Patrick Nickerson,Ticket Sales Representative
-chc,Sales and Partnerships,None,Gianna Siragusa,Ticket Sales Representative
-chc,Sales and Partnerships,None,Samantha Thrower,Ticket Sales Representative
-chc,Sales and Partnerships,None,Cale Vennum,"Director, Ticket Operations"
-chc,Sales and Partnerships,None,Miguel DeJesus,"Manager, Wrigley Field Ticket Office"
-chc,Sales and Partnerships,None,Whitney Irwin,"Manager, Ticket Operations"
-chc,Sales and Partnerships,None,Jessica Carravallah,"Coordinator, Ticket Operations"
-chc,Sales and Partnerships,None,Michael Domingo,"Coordinator, Ticket Operations"
-chc,Sales and Partnerships,None,Evan Hill,"Coordinator, Tour Experiences"
-chc,Sales and Partnerships,None,Brenda Morgan,Switchboard Operator/Receptionist
-chc,Sales and Partnerships,None,Madeline Agathen,Fan Service Associate
-chc,Sales and Partnerships,None,Kyle Colvin,Fan Service Associate
-chc,Sales and Partnerships,None,Chris Rhyce,Fan Service Associate
-chc,Sales and Partnerships,None,Alex Roberts,Fan Service Associate
-chc,Sales and Partnerships,None,Betsy Schwartz,Fan Service Associate
-chc,Sales and Partnerships,None,Stephani Young,Fan Service Associate
-chc,Sales and Partnerships,None,Brian Garza,"Director, Ticket Service"
-chc,Sales and Partnerships,None,Brad Nagel,"Manager, Ticket Service"
-chc,Sales and Partnerships,None,Karry Kerness,"Manager, Season Ticket Service"
-chc,Sales and Partnerships,None,Kevin Enerson,"Manager, Season Ticket Service"
-chc,Sales and Partnerships,None,Mike Bolz,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,None,Jennifer Conlin,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,None,Zach Conti,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,None,Tom Fitzgerald,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,None,Regina Nicholson,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,None,Kristi King,"Coordinator, Premier Services and Events"
-chc,Sales and Partnerships,Corporate Partnerships,Allen Hermeling,"Senior Director, Corporate Partnerships"
-chc,Sales and Partnerships,Corporate Partnerships,Brian O'Connor,"Assistant Director, Corporate Partnerships Sales Operations"
-chc,Sales and Partnerships,Corporate Partnerships,Alex Seyferth,Account Executive
-chc,Sales and Partnerships,Corporate Partnerships,Ashley Strid,Account Executive
-chc,Sales and Partnerships,Corporate Partnerships,Ryan Balogh,Account Manager
-chc,Sales and Partnerships,Corporate Partnerships,Andrea Burke,Account Manager
-chc,Sales and Partnerships,Corporate Partnerships,Piper Mead,Account Manager
-chc,Sales and Partnerships,Corporate Partnerships,Carrie Collins,Activation Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Lauren Shadid,Activation Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Adriana Villanueva,Activation Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Ashley Beirne,Sales Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Lauren McIntyre,Sales Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Natalie McKerjee,Sales Specialist
-chc,Sales and Partnerships,Corporate Partnerships,Jamie King,"Coordinator, Corporate Partnerships"
-chc,Sales and Partnerships,Ticket Sales,Andy Blackburn,"Director, Ticket Sales"
-chc,Sales and Partnerships,Ticket Sales,Nathan Strick,"Manager, Chicago Cubs Sales Development Program & Group Sales"
-chc,Sales and Partnerships,Ticket Sales,Evans Adonis,"Account Executive, Premier Sales "
-chc,Sales and Partnerships,Ticket Sales,Louis Artiaga,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,Ticket Sales,Tom Grossinger,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,Ticket Sales,Brittany Hilton,"Account Executive, Premier Sales"
-chc,Sales and Partnerships,Ticket Sales,Colleen Pastuovic,"Sales Specialist, Premier Sales"
-chc,Sales and Partnerships,Ticket Sales,Steve Brauer,Group Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Jason Tuton,Group Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Tony Battaglia,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Abbie Brewer,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Diego Chahda,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Lance Chapple,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Jacob Gilbertson,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Mike Kluczny,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Chelsea Naylor,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Patrick Nickerson,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Gianna Siragusa,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Sales,Samantha Thrower,Ticket Sales Representative
-chc,Sales and Partnerships,Ticket Operations,Cale Vennum,"Director, Ticket Operations"
-chc,Sales and Partnerships,Ticket Operations,Miguel DeJesus,"Manager, Wrigley Field Ticket Office"
-chc,Sales and Partnerships,Ticket Operations,Whitney Irwin,"Manager, Ticket Operations"
-chc,Sales and Partnerships,Ticket Operations,Jessica Carravallah,"Coordinator, Ticket Operations"
-chc,Sales and Partnerships,Ticket Operations,Michael Domingo,"Coordinator, Ticket Operations"
-chc,Sales and Partnerships,Ticket Operations,Evan Hill,"Coordinator, Tour Experiences"
-chc,Sales and Partnerships,Ticket Operations,Brenda Morgan,Switchboard Operator/Receptionist
-chc,Sales and Partnerships,Ticket Operations,Madeline Agathen,Fan Service Associate
-chc,Sales and Partnerships,Ticket Operations,Kyle Colvin,Fan Service Associate
-chc,Sales and Partnerships,Ticket Operations,Chris Rhyce,Fan Service Associate
-chc,Sales and Partnerships,Ticket Operations,Alex Roberts,Fan Service Associate
-chc,Sales and Partnerships,Ticket Operations,Betsy Schwartz,Fan Service Associate
-chc,Sales and Partnerships,Ticket Operations,Stephani Young,Fan Service Associate
-chc,Sales and Partnerships,Ticket Services,Brian Garza,"Director, Ticket Service"
-chc,Sales and Partnerships,Ticket Services,Brad Nagel,"Manager, Ticket Service"
-chc,Sales and Partnerships,Ticket Services,Karry Kerness,"Manager, Season Ticket Service"
-chc,Sales and Partnerships,Ticket Services,Kevin Enerson,"Manager, Season Ticket Service"
-chc,Sales and Partnerships,Ticket Services,Mike Bolz,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,Ticket Services,Jennifer Conlin,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,Ticket Services,Zach Conti,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,Ticket Services,Tom Fitzgerald,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,Ticket Services,Regina Nicholson,Season Ticket Holder Service Representative
-chc,Sales and Partnerships,Ticket Services,Kristi King,"Coordinator, Premier Services and Events"
-chc,Wrigley Field Gameday Personnel,Ticket Services,Andrew Belleson,Public Address Announcer
-chc,Wrigley Field Gameday Personnel,Ticket Services,Gary Pressy,Organist
-chc,Wrigley Field Gameday Personnel,Ticket Services,Tom  Farinella,Umpires Room Attendant
-chc,Wrigley Field Gameday Personnel,Ticket Services,Phyllis Donnan,Nurse
+team,department,subdepartment,employee,title
+cws,Board of Directors,None,Jerry Reinsdorf,Chairman
+cws,Board of Directors,None,Eddie Einhorn,Vice Chairman
+cws,Board of Directors,None,Robert Mazer,Board Member
+cws,Board of Directors,None,Allan Muchin,Board Member
+cws,Board of Directors,None,Judd Malkin,Board Member
+cws,Board of Directors,None,Lee Stern,Board Member
+cws,Board of Directors,None,Jay Pinsky,Board Member
+cws,Board of Directors,None,Burton Ury,Board Member
+cws,Board of Directors,None,Charles Walsh,Board Member
+cws,Board of Directors,None,Robert Judelson,Board Member
+cws,Officers,None,Jerry Reinsdorf,Chairman
+cws,Officers,None,Eddie Einhorn,Vice Chairman
+cws,Officers,None,Howard Pizer,Senior Executive Vice President
+cws,Officers,None,Ken Williams,Executive Vice President
+cws,Officers,None,Rick Hahn,Senior Vice President/General Manager
+cws,Officers,None,Tim Buzard,"Senior Vice President, Administration"
+cws,Officers,None,Terry Savarise,"Senior Vice President, Stadium Operations"
+cws,Officers,None,Scott Reifert,"Senior Vice President, Communications"
+cws,Officers,None,Brooks Boyer,"Senior Vice President, Sales and Marketing"
+cws,Officers,None,Buddy Bell,Vice President/Assistant General Manager
+cws,Officers,None,Allan Muchin,Corporate Counsel
+cws,Baseball Operations,Major League Operations,Dan Fabian,Senior Director of Baseball Operations
+cws,Baseball Operations,Major League Operations,Ed Cassin,Director of Team Travel
+cws,Baseball Operations,Major League Operations,Dennis Gilbert,Special Assistant to the Chairman
+cws,Baseball Operations,Major League Operations,Bill Scherrer,Special Assistant to the Senior VP/General Manager
+cws,Baseball Operations,Major League Operations,Dave Yoakum,Special Assistant to the Senior VP/General Manager
+cws,Baseball Operations,Major League Operations,Larry Monroe,Advisor to Baseball Department
+cws,Baseball Operations,Major League Operations,Bryan Little,Major League Advance Scout/Special Instructor
+cws,Baseball Operations,Major League Operations,Nancy Nesnidal,Executive Assistant to the Senior Vice President/General Manager
+cws,Baseball Operations,Major League Operations,Daniel Zien,Assistant Director of Baseball Operations
+cws,Baseball Operations,Major League Operations,Marco Paddy,Special Assistant to the General Manager - International Operations
+cws,Baseball Operations,Major League Operations,Bryan Johnson,Baseball Video Coordinator
+cws,Baseball Operations,Major League Operations,Ross Mika,Technical Video Coordinator
+cws,Baseball Operations,Major League Operations,Jeremy Haber,Assistant to the General Manager
+cws,Baseball Operations,Major League Operations,Dan Strittmatter,Coordinator of Baseball Information
+cws,Baseball Operations,Minor League Baseball Operations,Doug Laumann,Director of Amateur Scouting
+cws,Baseball Operations,Minor League Baseball Operations,Grace Guerrero Zwit,Senior Director of Minor League Operations
+cws,Baseball Operations,Minor League Baseball Operations,Nick Capra,Director of Player Development
+cws,Baseball Operations,Minor League Baseball Operations,Del Matthews,Assistant Director of Player Development & Scouting
+cws,Baseball Operations,Minor League Baseball Operations,Kirk Champion,Minor League Field Coordinator
+cws,Baseball Operations,Minor League Baseball Operations,Kathy Potoski,Sr. Coordinator of Minor League Administration
+cws,Baseball Operations,Minor League Baseball Operations,Robert Cummings,Player Development Assistant
+cws,Baseball Operations,Major League Training Staff,Herman Schneider,Head Athletic Trainer
+cws,Baseball Operations,Major League Training Staff,Brian Ball,Assistant Athletic Trainer
+cws,Baseball Operations,Major League Training Staff,Allen Thomas,Director of Conditioning
+cws,Baseball Operations,Major League Medical Staff,Dr. Charles A. Bush-Joseph,Lead Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. Bernard R. Bach Jr.,Team Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. Gregory P. Nicholson,Team Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. Kathleen M. Weber,Team Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. Brian J. Cole,Team Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. Anthony A. Romeo,Team Physician
+cws,Baseball Operations,Major League Medical Staff,Dr. David Orth,Team Ophthalmologist
+cws,Baseball Operations,Major League Medical Staff,Dr. R. Tracy Williams,Team Optometrist
+cws,Baseball Operations,Major League Medical Staff,Dr. Lowell Scott Weil,Team Podiatrist
+cws,Baseball Operations,Clubhouse Staff,Vince Fresso,White Sox Clubhouse Manager
+cws,Baseball Operations,Clubhouse Staff,Gabe Morell,Visitors' Clubhouse Manager
+cws,Baseball Operations,Clubhouse Staff,"Joe McNamara, Jr.",Umpires' Clubhouse Manager
+cws,Marketing,Corporate Partnerships,George McDoniel,Director of Corporate Partnerships Sales
+cws,Marketing,Corporate Partnerships,Gail Tucker,Director of Corporate Partnerships Activation
+cws,Marketing,Corporate Partnerships,Jeff Floerke,Manager of Corporate Partnerships Sales Development
+cws,Marketing,Corporate Partnerships,Joe Ronovsky,"Account Executive, Corporate Partnership Development"
+cws,Marketing,Corporate Partnerships,"Katherine Claeys, Arden Reed",Corporate Partnerships Activation Coordinator
+cws,Marketing,Corporate Partnerships,Kia Carter,Corporate Partnerships Activation Event Coordinator
+cws,Marketing,Corporate Partnerships,Tanja Gajic,Corporate Partnerships Administrator
+cws,Marketing,Marketing Analytics,Beth Grabowski,Director of Marketing Analytics
+cws,Marketing,Ticket Sales and Premium Seating,Tom Sheridan,Senior Director of Ticket Sales
+cws,Marketing,Ticket Sales and Premium Seating,Sam Lawson,Manager of Corporate Development and Ticket Sales
+cws,Marketing,Ticket Sales and Premium Seating,Rob Boaz,Manager of Premium Seating Sales and Services
+cws,Marketing,Ticket Sales and Premium Seating,Lindsey Jordan,Manager of Premium Seating Services
+cws,Marketing,Ticket Sales and Premium Seating,Rich Kuchar,Manager of Client Services and Database Administration
+cws,Marketing,Ticket Sales and Premium Seating,John Margelewski,Manager of New Business Development and Online Sales
+cws,Marketing,Ticket Sales and Premium Seating,Mina Pineda,Manager of Ticket Sales Administration
+cws,Marketing,Ticket Sales and Premium Seating,Jeff Bogacki,Manager of Group Sales
+cws,Marketing,Ticket Sales and Premium Seating,Maggie Marshall,Coordinator of Client Services and Database Administration
+cws,Marketing,Ticket Sales and Premium Seating,Natalie McSharry,Coordinator of Ticket Administration
+cws,Marketing,Ticket Sales and Premium Seating,Courtney Long,Coordinator of Premium Seating Services
+cws,Marketing,Ticket Sales and Premium Seating,Kelli Naber,Client Services Executive
+cws,Marketing,Ticket Sales and Premium Seating,Reynel Penn,Client Services Executive
+cws,Marketing,Ticket Sales and Premium Seating,Thomas Bassett,Client Services Executive
+cws,Marketing,Ticket Sales and Premium Seating,Adam Delgado,Client Services Executive
+cws,Marketing,Ticket Sales and Premium Seating,Nick Fetchik,Group Sales Executive
+cws,Marketing,Ticket Sales and Premium Seating,Scott Gbur,Group Sales Executive
+cws,Marketing,Ticket Sales and Premium Seating,Dustin Milliken,Group Sales Executive
+cws,Marketing,Ticket Sales and Premium Seating,Joe Jung,Group Sales Executive
+cws,Marketing,Ticket Sales and Premium Seating,Night Train Veeck,Group Sales Executive
+cws,Marketing,Ticket Sales and Premium Seating,Mike Rourke,New Business Executive
+cws,Marketing,Ticket Sales and Premium Seating,Alexa Vaicaitis,New Business Executive
+cws,Marketing,Ticket Sales and Premium Seating,Colin Kibler,New Business Executive
+cws,Marketing,Broadcasting and Business Development,Bob Grim,Senior Director of Business Development and Broadcasting
+cws,Marketing,Broadcasting and Business Development,Jo Simmons,Manager of Business Development
+cws,Marketing,Broadcasting and Business Development,Martha Black,Coordinator of White Sox Experiences
+cws,Marketing,Broadcasting and Business Development,Lauren Markiewicz,Senior Coordinator of Design Services
+cws,Marketing,Broadcasting and Business Development,"Ken Harrelson, Steve Stone",Television Broadcasters
+cws,Marketing,Broadcasting and Business Development,"Ed Farmer, Darrin Jackson",Radio Broadcasters
+cws,Marketing,Game Operations,Nichole Manning,Senior Director of Game Operations
+cws,Marketing,Game Operations,Jeffrey Szynal,Senior Manager of Scoreboard Operations & Production
+cws,Marketing,Game Operations,Amy Sheridan,Manager of Game Operations
+cws,Marketing,Game Operations,Dan Mielke,Manager of In-Game Entertainment
+cws,Marketing,Game Operations,Anthony Olivo,Coordinator of Game Operations
+cws,Marketing,Game Operations,Roman Farias,Digital Video Specialist
+cws,Marketing,Game Operations,Rocco Fusco,Technical Direction Specialist
+cws,Marketing,Game Operations,Justin Tuazon,Animation and Video Specialist
+cws,Marketing,Game Operations,"Bianca Alferes, Gerardo Alferes, Julio Avalos, Elliot Barlog, Mark Bradley, Alton Brooks II, Tommi Butler, Patrick Callahan, Steve Debnar, Michael Dijulio, Kendra Dinkins, Pat Ennis, Rafie Fields, Meghan Gleason-Vollmer, James Gonzalez, Patrick Gorman, Gerard Grabowski, Erik Hanson, Chris Hubble, Mark Jacobson, Pamela Johnson, Kevin Kantorski, Ray Kramer, Sergio Lozano, David Marran, Lina Martino, Kellett McConville, Nick McDonough, Jennifer McMahon, David Montenegro, Luis Palacios, Mitchell Pericak, Andrew Pohlman, Ron Pohrebny, Jeff Prah, Melanie Ramsay, Bob Repin, Roberto Rios, Adam Rotroff, Patrick Schultz, Paul Shaer, Patrick Slattery, Anthony Spacucello, Tom Steiner, Justin Szykowny, Daniel Szynal, Nathan Szynal, Nick Szynal, Steve Szynal, Kedonica Taylor, Aaron Vermedal, Brian Wiencek",Gameday Scoreboard Operations Staff
+cws,Marketing,Game Operations,Lori Moreland,Organist
+cws,Marketing,Game Operations,Gene Honda,Public Address Announcer
+cws,Communications,Media Relations,Bob Beghtol,Director of Media Relations
+cws,Communications,Media Relations,Ray Garcia,Manager of Media Relations
+cws,Communications,Media Relations,"Leni DePoister, Joe Roti",Media Relations Coordinators
+cws,Communications,Public Relations,Lou Hernandez,Director of Public Relations
+cws,Communications,Public Relations,Marty Maloney,Manager of Public Relations
+cws,Communications,Public Relations,Ron Vesely,Team Photographer
+cws,Communications,Mass Communications,Nicole Saunches,Director of Mass Communications
+cws,Communications,Mass Communications,Gareth Breunlin,Director of Advertising & Design Services
+cws,Communications,Mass Communications,Dakin Dugaw,Manager of On-line Communications
+cws,Communications,Mass Communications,"Matthew Peterson, Toby Ramos",Senior Coordinators of Design Services
+cws,Communications,Mass Communications,Danny Harms,Coordinator of Design Services & Multimedia
+cws,Communications,Mass Communications,Colleen Maxwell,Coordinator of Social Media
+cws,Communications,Mass Communications,Gabbi LeVert,Coordinator of Advertising
+cws,Communications,Community Relations,Christine O'Reilly,Senior Director of Community Relations; Executive Director of Chicago White Sox Charities
+cws,Communications,Community Relations,Laura Visin,Manager of Community Relations
+cws,Communications,Community Relations,Sarah Marten,Manager of Community Relations
+cws,Communications,Community Relations,Kevin Coe,Manager of Youth Baseball Initiatives
+cws,Communications,Community Relations,Stacy Tsihlopoulos,Coordinator of Community Relations
+cws,Communications,Community Relations,Joanna Aguirre,Coordinator of Community Relations
+cws,Communications,Community Relations,Louise Reynolds,Coordinator of Community Relations
+cws,Communications,Community Relations,Carrie Norwood,Community Relations Assistant
+cws,Communications,Community Relations,Tiffany Dimas,Community Relations Administrator
+cws,Communications,Community Relations,,Community Relations Representatives
+cws,Administration,Administrative Staff,Don Brown,Senior Director of Management Information Services
+cws,Administration,Administrative Staff,Moira Foy,Senior Director of Human Resources
+cws,Administration,Administrative Staff,John Corvino,General Counsel
+cws,Administration,Administrative Staff,Barb Reincke,Assistant to the Chairman
+cws,Administration,Administrative Staff,Stan Czyzewski,Senior Systems Analyst/Desktop Administrator
+cws,Administration,Administrative Staff,Lori Palasti,Executive Assistant to the Senior Executive Vice President
+cws,Administration,Administrative Staff,Lori Roppolo,"Executive Assistant to the Sr. VP, Stadium Operations"
+cws,Administration,Administrative Staff,Leslie Gaggiano,Senior Coordinator of Human Resources
+cws,Administration,Administrative Staff,Katie Hermle,Coordinator of Administration & Investor Relations
+cws,Administration,Administrative Staff,Elizabeth Vazquez,Coordinator of Human Resources
+cws,Administration,Administrative Staff,Alex Barrera ,Data Network Administrator 
+cws,Administration,Accounting,Bill Waters,Senior Director of Finance
+cws,Administration,Accounting,Chris Taylor,Accounting Manager
+cws,Administration,Accounting,John Storiz,Payroll Manager
+cws,Administration,Accounting,Mallory Whitlock,Manager of Special Projects
+cws,Administration,Accounting,Jennifer O'Donnell,Chicago Bulls/Sox Training Academy Accounting Manager
+cws,Administration,Accounting,Kathy Bingham,Accounting Assistant
+cws,Administration,Accounting,Kristy Conners,Coordinator of Accounts Receivable
+cws,Administration,Accounting,"Tina Stack, Nancy Trump",Payroll Coordinators
+cws,Administration,Accounting,Terry Considine,Coordinator of Accounts Payable
+cws,Administration,Accounting,Cheri Vari,Treasury Accounting Coordinator
+cws,Administration,Accounting,Marianne Demke,Executive Assistant
+cws,Administration,Support Services,Don Esposito,"Senior Director of Purchasing, Construction and Maintenance"
+cws,Administration,Support Services,Mike Spidale,Director of Purchasing
+cws,Administration,Support Services,Shau Booker,Manager of Central Support Services
+cws,Administration,Support Services,Jerae Farries,Coordinator of Central Support Services
+cws,Administration,Support Services,Leo Brady,Coordinator of Purchasing/Central Support Services
+cws,Administration,Support Services,Matt Nykiel,Manager of Warehouse and Purchasing
+cws,Administration,Support Services,Tracy Mobley,Purchasing Administrator
+cws,Administration,Support Services,Leo Brady,Coordinator of Purchasing and Central Support Services
+cws,Administration,Ticket Office,Mike Mazza,Director of Ticket Operations
+cws,Administration,Ticket Office,Ken Wisz,Manager of Ticket Accounting Administration
+cws,Administration,Ticket Office,Tom Eichstaedt,Manager of Ticket Office Seasonal Staff
+cws,Administration,Ticket Office,Liz Milla,Manager of Ticket Analysis
+cws,Administration,Ticket Office,Laura Arenas,Coordinator of Ticketing Services
+cws,Administration,Ticket Office,Mary Weiss,Administrative Staff
+cws,Administration,Park Operations,Troy Brown,Senior Director of Event Operations
+cws,Administration,Park Operations,Greg Hopwood,Senior Director of Stadium Operations
+cws,Administration,Park Operations,Julie Taylor,Senior Director of Guest Services and Diamond Suites
+cws,Administration,Park Operations,Joe Lachcik,Director of Arizona Facilities
+cws,Administration,Park Operations,Roger Bossard,Head Groundskeeper
+cws,Administration,Park Operations,Jenny Kondrisack,Manager of Park Operations Administration
+cws,Administration,Park Operations,Dave Wanda,Manager of Quality Control
+cws,Administration,Park Operations,Alexandria Janowiak,Manager of Guest Services & Diamond Suites
+cws,Administration,Park Operations,Katie Harrington,Coordinator of Guest Services
+cws,Administration,Park Operations,Maria Villanueva,Switchboard Operator
+cws,Administration,Park Operations,Bea Quintero,Switchboard Operator
+cws,Administration,Park Operations,Laura Randolph,Receptionist
+cws,Administration,Park Operations,Ray Gilmore,Park Operations Staff
+cws,Administration,Park Operations,Brian Galvin,Park Operations Staff
+cws,Administration,Park Operations,Joseph Moran,Park Operations Staff
+cws,Administration,Park Operations,Wayne Kramer,Park Operations Staff
+cws,Administration,Park Operations,Curtis Nekovar,Park Operations Staff
+cws,Administration,Park Operations,Michael Quan,Park Operations Staff
+cws,Administration,Park Operations,Jamie Caudle,Park Operations Staff
+cws,Administration,Park Operations,Jerry Powe,Park Operations Staff
+cws,Administration,Park Operations,Scott Lynam,Park Operations Staff
+cws,Administration,Park Operations,Roy Rivas,Bards Room Chef
+cws,Administration,Park Operations,Olivia Ortiz,Bards Room Staff
+cws,Administration,Park Operations,Jose A. Gomez,Bards Room Staff
+cws,Administration,Park Operations,Juan Gomez,Bards Room Staff
+cws,Administration,Park Operations,Karen Looney,Bards Room Staff
+cws,Administration,Park Operations,Jeanette Rogosich,Bards Room Staff
+cws,Administration,Park Operations,Gene Smith,Bards Room Staff
+cws,Administration,Park Operations,Glenn Blackwell,Construction and Maintenance Staff
+cws,Administration,Park Operations,Steve Knight,Construction and Maintenance Staff
+cws,Administration,Park Operations,Mike Ruff,Construction and Maintenance Staff
+cws,Administration,Park Operations,Bob Sievert,Construction and Maintenance Staff
+cws,Administration,Park Operations,Dow Smith,Construction and Maintenance Staff
+cws,Administration,Park Operations,Mike Tatro,Construction and Maintenance Staff
+cws,Administration,At Your Service,Michelle Giancaterino,Director of Administration
+cws,Administration,At Your Service,Kim Foley,Senior Manager of Accounting
+cws,Administration,At Your Service,Janet Hernandez,Senior Manager of Payroll
+cws,Administration,At Your Service,Elizabeth Hernandez,Payroll Coordinator
+cws,Administration,At Your Service,Maggie Acevedo,Senior Manager of Guest Services
+cws,Administration,At Your Service,John Bowen,Manager of Guest Services
+cws,Administration,At Your Service,Kathy Indovina,Manager of Guest Services
+bos,None,None,John W. Henry,Principal Owner
+bos,None,None,Thomas C. Werner,Chairman
+bos,None,None,Larry Lucchino,President / Chief Executive Officer
+bos,None,None,David Ginsberg,Vice Chairman
+bos,None,None,Phillip H. Morse,Vice Chairman
+bos,None,None,Ed Weiss,"Executive Vice President, Corporate Strategy & General Counsel"
+bos,PARTNERS,None,Theodore Alfond,Partner
+bos,PARTNERS,None,William Alfond,Partner
+bos,PARTNERS,None,Thomas R. DiBenedetto,Partner
+bos,PARTNERS,None,Michael Egan,Partner
+bos,PARTNERS,None,Michael Gordon,Partner
+bos,PARTNERS,None,John A. Kaneb,Partner
+bos,PARTNERS,None,Seth Klarman,Partner
+bos,PARTNERS,None,Henry McCance,Partner
+bos,PARTNERS,None,Arthur E. Nicholas,Partner
+bos,PARTNERS,None,Bruce Rauner,Partner
+bos,PARTNERS,None,Frank Resnek,Partner
+bos,PARTNERS,None,Martin Trust,Partner
+bos,PARTNERS,None,Jeffrey Vinik,Partner
+bos,PARTNERS,None,Herb Wagner,Partner
+bos,PARTNERS,None,Senator George Mitchell,Senior Advisor
+bos,FRONT OFFICE,None,Sam Kennedy,Executive Vice President / Chief Operating Officer
+bos,FRONT OFFICE,None,Jonathan Gilula,Executive Vice President / Business Affairs
+bos,FRONT OFFICE,None,Dr. Charles Steinberg,Executive Vice President & Senior Advisor to the President / CEO
+bos,FRONT OFFICE,None,Jeff White,Financial Advisor to the President / CEO
+bos,FRONT OFFICE,None,Jeremy Kapstein,Senior Advisor / Baseball Projects
+bos,FRONT OFFICE,None,Michael Porter,Senior Advisor / Strategic Planning
+bos,FRONT OFFICE,None,Tim Zue,Vice President / Business Development
+bos,FRONT OFFICE,None,Kurt Zwald,Business Analyst
+bos,FRONT OFFICE,None,Sylvia Moon,Special Assistant to the Principal Owner
+bos,FRONT OFFICE,None,Dan Rea III,Special Assistants to the President / CEO
+bos,FRONT OFFICE,None,David Beeston,Special Counsel to the EVP / COO & EVP / Business Affairs
+bos,FRONT OFFICE,None,Fay Scheer,Executive Assistant to the President / CEO
+bos,FRONT OFFICE,None,Caitlin Bergin,Executive Assistants
+bos,FRONT OFFICE,None,Barbara Bianucci,Executive Assistants
+bos,FRONT OFFICE,None,Jackie Dempsey,Executive Assistants
+bos,FRONT OFFICE,None,Claire Durant,Executive Assistants
+bos,FRONT OFFICE,None,Leanne Nadworny,Executive Assistants
+bos,FRONT OFFICE,None,Brienne Hart,Executive Personal Assistant
+bos,BASEBALL OPERATIONS,None,Ben Cherington,Executive Vice President / General Manager
+bos,BASEBALL OPERATIONS,None,Mike Hazen,Vice President / Assistant General Manager
+bos,BASEBALL OPERATIONS,None,Brian O'Halloran,Vice President / Assistant General Manager
+bos,BASEBALL OPERATIONS,None,Allard Baird,Vice President / Player Personnel
+bos,BASEBALL OPERATIONS,None,Pedro Martinez,Special Assistants to the General Manager
+bos,BASEBALL OPERATIONS,None,Jason Varitek,Special Assistants to the General Manager
+bos,BASEBALL OPERATIONS,None,Jack McCormick,Traveling Secretary
+bos,BASEBALL OPERATIONS,None,Bill James,Senior Advisor of Baseball Operations
+bos,BASEBALL OPERATIONS,None,Tom Tippett,Director of Baseball Information Services
+bos,BASEBALL OPERATIONS,None,Zack Scott,Director of Major League Operations
+bos,BASEBALL OPERATIONS,None,David Finley,Director of Player Personnel
+bos,BASEBALL OPERATIONS,None,Eddie Bane,"Special Assistant, Player Personnel"
+bos,BASEBALL OPERATIONS,None,Jared Banner,Assistant Director of Player Personnel
+bos,BASEBALL OPERATIONS,None,Mike Murov,Coordinator of Baseball Operations
+bos,BASEBALL OPERATIONS,None,Erin Cox,"Executive Assistant, Baseball Operations"
+bos,BASEBALL OPERATIONS,None,Mike Regan,Baseball Operations Assistant
+bos,BASEBALL OPERATIONS,None,Shawn O'Rourke,"Software Developer, Baseball Operations"
+bos,BASEBALL OPERATIONS,None,Dr. Larry Ronan,Medical Director
+bos,BASEBALL OPERATIONS,None,Peter Asnis,Team Orthopedist
+bos,BASEBALL OPERATIONS,None,Dan Dyrek,Coordinator of Sports Medicine Service
+bos,BASEBALL OPERATIONS,None,Rick Jameyson,Head Athletic Trainer
+bos,BASEBALL OPERATIONS,None,Jim Rowe,Medical Operations Coordinator
+bos,BASEBALL OPERATIONS,None,Brad Pearson,Assistant Athletic Trainer
+bos,BASEBALL OPERATIONS,None,Masai Takahashi,Assistant Athletic Trainer
+bos,BASEBALL OPERATIONS,None,Pat Sandora,Strength and Conditioning Coach
+bos,BASEBALL OPERATIONS,None,Mike Boyle,Strength and Conditioning Consultant
+bos,BASEBALL OPERATIONS,None,Russell Nua,Massage Therapists
+bos,BASEBALL OPERATIONS,None,Shinichiro Uchikubo,Massage Therapists
+bos,BASEBALL OPERATIONS,None,,Japanese Interpreter
+bos,BASEBALL OPERATIONS,None,Tom McLaughlin,Home Clubhouse Manager
+bos,BASEBALL OPERATIONS,None,"Edward ""Pookie"" Jackson",Equipment Manager
+bos,BASEBALL OPERATIONS,None,Joe Cochran,Visiting Clubhouse Manager
+bos,BASEBALL OPERATIONS,None,Billy Broadbent,Video Coordinator
+bos,BASEBALL OPERATIONS,None,John Coyne,Clubhouse Assistants
+bos,BASEBALL OPERATIONS,None,Steve Murphy,Clubhouse Assistants
+bos,BASEBALL OPERATIONS,None,Jim Rice,Instructors
+bos,BASEBALL OPERATIONS,None,Luis Tiant,Instructors
+bos,MINOR LEAGUE OPERATIONS,None,Raquel Ferreira,Senior Director of Minor League Operations
+bos,MINOR LEAGUE OPERATIONS,None,Ben Crockett,Director of Player Development
+bos,MINOR LEAGUE OPERATIONS,None,Duncan Webb,Assistant Director of Player Development
+bos,MINOR LEAGUE OPERATIONS,None,Ethan Faggett,Assistant Director of Florida Baseball Operations
+bos,MINOR LEAGUE OPERATIONS,None,Dick Berardino,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Tony Cloninger,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Dwight Evans,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Tommy Harper,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Frank Malzone,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Tim Wakefield,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Carl Yastrzemski,Player Development Consultants
+bos,MINOR LEAGUE OPERATIONS,None,Mike Stelmach,Minor League Equipment Manager
+bos,SCOUTING,None,Amiel Sawdaye,Director of Amateur Scouting
+bos,SCOUTING,None,Jared Porter,Director of Professional Scouting
+bos,SCOUTING,None,Eddie Romero,Director of International Scouting
+bos,SCOUTING,None,Gus Quattlebaum,Assistant Director of Amateur Scouting
+bos,SCOUTING,None,Steve Sanders,"Assistant, Amateur and International Scouting"
+bos,BALLPARK OPERATIONS,None,Pete Nesbit,Senior Director of Ballpark Operations
+bos,BALLPARK OPERATIONS,None,Charles Cellucci,Director of Security & Emergency Services
+bos,BALLPARK OPERATIONS,None,Jonathan Lister,Director of Facilities Management
+bos,BALLPARK OPERATIONS,None,Dave Mellor,Director of Grounds
+bos,BALLPARK OPERATIONS,None,Joe Mooney,Director of Grounds / Emeritus
+bos,BALLPARK OPERATIONS,None,Fred Olsen,Director of Special Projects
+bos,BALLPARK OPERATIONS,None,Marcita Thompson,Director of Fenway Park Tours & Event Operations
+bos,BALLPARK OPERATIONS,None,Todd Stephenson,Special Advisor to Florida Operations
+bos,BALLPARK OPERATIONS,None,Donnie Gardiner,Facilities Superintendent
+bos,BALLPARK OPERATIONS,None,Jason Griffeth,Assistant Director of Grounds
+bos,BALLPARK OPERATIONS,None,Mark Cacciatore,Senior Manager of Security & Emergency Services
+bos,BALLPARK OPERATIONS,None,Jon Dienstag,"Senior Manager, Concessions and Merchandise Operations"
+bos,BALLPARK OPERATIONS,None,Kathleen Harrington,Manager of Special Projects
+bos,BALLPARK OPERATIONS,None,Glen McGlinchey,Manager of Facilities Maintenance
+bos,BALLPARK OPERATIONS,None,Chris Knight,Manager of Facilities Services and Planning
+bos,BALLPARK OPERATIONS,None,Chris Williams,Manager of Grounds
+bos,BALLPARK OPERATIONS,None,Mikio Yoshimura,Asian Business Development Specialist
+bos,BALLPARK OPERATIONS,None,John Sodini,Ballpark Operations Coordinator
+bos,BALLPARK OPERATIONS,None,Scott Towers,Coordinator of Fenway Park Tours
+bos,BALLPARK OPERATIONS,None,Sarah Farley,Group Tour Sales Coordinator
+bos,BALLPARK OPERATIONS,None,Thomas Carey,Facilities Maintenance Staff
+bos,BALLPARK OPERATIONS,None,Evan Lawler,Facilities Maintenance Staff
+bos,BALLPARK OPERATIONS,None,Bob Levin,Security Staff
+bos,BALLPARK OPERATIONS,None,Angel Santiago,Security Staff
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Troup Parkinson,Senior Vice President / Corporate Partnerships
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Marcell Bhangoo,Vice President / Client Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Erin Donovan,Assistant Director of Client Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Sean Walsh,Senior Manager of Client Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Kim Cameron,Manager of Suite Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Kathleen Fleming,Manager of Hospitality
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Andrew Dennen,Coordinator of Client Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Jeff Farmer,Coordinator of Client Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Amanda Heglin,Coordinator of Sponsor Services
+bos,CORPORATE PARTNERSHIPS AND CLIENT SERVICES,None,Jeanne Bill,Executive Assistant
+bos,FAN SERVICES AND ENTERTAINMENT,None,Sarah McKenna,Vice President/Fan Services and Entertainment
+bos,FAN SERVICES AND ENTERTAINMENT,None,John Carter,Director of Red Sox Productions
+bos,FAN SERVICES AND ENTERTAINMENT,None,Stephanie Maneikis,Senior Manager of Fan Services and Entertainment
+bos,FAN SERVICES AND ENTERTAINMENT,None,Dan Lyons,Manager of Entertainment
+bos,FAN SERVICES AND ENTERTAINMENT,None,Tim Heintzelman,"Manager of Red Sox Productions, Creative"
+bos,FAN SERVICES AND ENTERTAINMENT,None,Eric Hancock,Red Sox Productions Engineer
+bos,FAN SERVICES AND ENTERTAINMENT,None,Jason Gorden,"Specialist of Red Sox Productions, Creative"
+bos,FAN SERVICES AND ENTERTAINMENT,None,Jack Lanzillotti,"Specialist of Red Sox Productions, Game Operations"
+bos,FAN SERVICES AND ENTERTAINMENT,None,Jen Baglio,Coordinators of Red Sox Productions
+bos,FAN SERVICES AND ENTERTAINMENT,None,Steve Roman,Coordinators of Red Sox Productions
+bos,FAN SERVICES AND ENTERTAINMENT,None,Nina Beltre,Coordinators of Fan Services
+bos,FAN SERVICES AND ENTERTAINMENT,None,Jovan Holland,Coordinators of Fan Services
+bos,FENWAY AFFAIRS,None,Larry Cancro,Senior Vice President / Fenway Affairs
+bos,FENWAY AFFAIRS,None,Beth Krudys,Senior Manager of Fenway Affairs
+bos,FENWAY ENTERPRISES,None,Carrie Campbell,Vice President / Fenway Enterprises
+bos,FENWAY ENTERPRISES,None,Taylor Grinnell,Senior Manager of Event Sales
+bos,FENWAY ENTERPRISES,None,Haley McNearney,Event Sales Manager
+bos,FENWAY ENTERPRISES,None,Chris Bergstrom,Mascot Coordinator
+bos,FENWAY ENTERPRISES,None,Christina Kotseas,Event Services Coordinators
+bos,FENWAY ENTERPRISES,None,Kate Page,Event Services Coordinators
+bos,FINANCE AND ACCOUNTING,None,Steve Fitch,Senior Vice President / Chief Financial Officer
+bos,FINANCE AND ACCOUNTING,None,Mark Solitro,Vice President / Controller
+bos,FINANCE AND ACCOUNTING,None,Bob Furbush,Senior Advisor to Finance and Accounting
+bos,FINANCE AND ACCOUNTING,None,Ryan Oremus,Director of Finance
+bos,FINANCE AND ACCOUNTING,None,Cathy Fahy,Senior Manager of Accounting
+bos,FINANCE AND ACCOUNTING,None,Ryan Scafidi,Manager of Financial Planning and Operations
+bos,FINANCE AND ACCOUNTING,None,Mark Sirota,Accounting Manager
+bos,FINANCE AND ACCOUNTING,None,Marisa Roncevich,Senior Accountant
+bos,FINANCE AND ACCOUNTING,None,Mauricio Rosas,Payroll Administrator
+bos,FINANCE AND ACCOUNTING,None,Tina Yong,Accounts Payable
+bos,FINANCE AND ACCOUNTING,None,Rob Winter,Accounting Coordinator
+bos,FINANCE AND ACCOUNTING,None,Gail Cummings,Accounting Assistant
+bos,FLORIDA BUSINESS OPERATIONS,None,Katie Haas,Senior Director of Florida Business Operations
+bos,FLORIDA BUSINESS OPERATIONS,None,Brett Bodine,Manager of Florida Business Operations
+bos,FLORIDA BUSINESS OPERATIONS,None,Brennan Whitley,Coordinator of Florida Business Operations
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Amy Waryas,Vice President / Human Resources
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Mike Danubio,Director of Human Resources
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Jean McGurl,Assistant Director of Human Resources
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Patty Vattes,Senior Manager of Human Resources
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Sarah Applewhite,Human Resources Coordinator
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Sara Salam,Human Resources Coordinator
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Brenna Peterson,Receptionist
+bos,HUMAN RESOURCES AND ADMINISTRATION,None,Travis Patterson,Office Coordinator
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Brian Shield,Vice President of Information Technology
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Steve Conley,Director of Information Technology
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Randy George,Assistant Director of Information Technology
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Sheila MacDonald,Manager of Application Development
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Bill Bartlett,IT Support Manager
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Ryan Oreste,Systems Engineer
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Joe Caggiano,Senior Business Systems Analyst
+bos,INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS,None,Dan White,Software Engineer
+bos,LEGAL,None,Jennifer Flynn,Senior Vice President and Assistant General Counsel
+bos,LEGAL,None,David Friedman,Senior Vice President and Special Counsel
+bos,LEGAL,None,Elaine Weddington Steward,Vice President / Club Counsel
+bos,LEGAL,None,Michelle Gewandter,Legal Counsel
+bos,LEGAL,None,Amanda Eysie,Senior Manager of Legal Operations
+bos,LEGAL,None,Caitlin Sullivan,Executive Assistant to the General Counsel
+bos,LEGAL,None,Sarah Potts,Executive Assistant
+bos,MARKETING,None,Adam Grossman,Senior Vice President / Marketing and Brand Development
+bos,MARKETING,None,Colin Burch,Director of Broadcasting
+bos,MARKETING,None,Brian Sullivan,Director of Marketing
+bos,MARKETING,None,Mike Olano,Senior Manager of Creative Services & Brand Development
+bos,MARKETING,None,Meghan Ryan,Marketing Specialist
+bos,MARKETING,None,Adam Whitfield,Fan Club Specialist
+bos,MARKETING,None,Steve Oliveira,Marketing Assistant
+bos,MEDIA RELATIONS,None,Zineb Curran,Director of Corporate Communications
+bos,MEDIA RELATIONS,None,Kevin Gregg,Director of Media Relations
+bos,MEDIA RELATIONS,None,Leah Tobin,Manager of Media Relations
+bos,MEDIA RELATIONS,None,Abby DeCiccio,Media Relations Specialist
+bos,MEDIA RELATIONS,None,Jon Shestakofsky,Baseball Information Specialist
+bos,MEDIA RELATIONS,None,Peter Cohenno,Media Relations Coordinator
+bos,PREMIUM / GROUP SALES,None,William Droste,Director of Premium Sales
+bos,PREMIUM / GROUP SALES,None,Corey Bowdre,Senior Manager of Premium Sales and New Business Development
+bos,PREMIUM / GROUP SALES,None,Brendan Hankard,Manager of Premium Sales
+bos,PREMIUM / GROUP SALES,None,Carl Grider,Manager of Group Sales
+bos,PREMIUM / GROUP SALES,None,Allison Bucci,Premium Sales Account Executive
+bos,PREMIUM / GROUP SALES,None,Casey Devane,Premium Sales Services Coordinator
+bos,PREMIUM / GROUP SALES,None,Marc Llanto,Premium Sales Services Coordinator
+bos,PREMIUM / GROUP SALES,None,Matthew Labossiere,Group Sales Representatives
+bos,PREMIUM / GROUP SALES,None,Adam Perri,Group Sales Representatives
+bos,PREMIUM / GROUP SALES,None,Travis Pollio,Group Sales Representatives
+bos,RED SOX SALES ACADEMY,None,David Baggs,"Manager, Red Sox Sales Academy"
+bos,RED SOX SALES ACADEMY,None,Derek Bennett,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Ryan Calvo,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Jessica Dudek,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Jacob Levine,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,David Lewis,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Tyler Massey,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Daniel Picano,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Evan Pursley,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Kyle Raynor,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Craig Silva,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Sunjae Song,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Matthew Tieri,Inside Sales Representatives
+bos,RED SOX SALES ACADEMY,None,Amanda Zanni,Inside Sales Representatives
+bos,PUBLIC AFFAIRS,None,Pam Kenn,Senior Director of Public Affairs
+bos,PUBLIC AFFAIRS,None,Dick Bresciani,Vice President / Emeritus and Team Historian
+bos,PUBLIC AFFAIRS,None,Debbie Matson,Director of Publications
+bos,PUBLIC AFFAIRS,None,Sarah Narracci,Assistant Director of Community and Player Relations
+bos,PUBLIC AFFAIRS,None,Mike Ivins,Manager of Photography
+bos,PUBLIC AFFAIRS,None,Sheri Rosenberg,Community Relations Specialist
+bos,PUBLIC AFFAIRS,None,Kathryn Quirk,Community Relations Coordinator
+bos,TICKETING,None,Ron Bumgarner,Senior Vice President/Ticketing and Fenway Enterprises
+bos,TICKETING,None,Richard Beaton,Vice President/Ticketing
+bos,TICKETING,None,Naomi Calder,Director of Ticketing
+bos,TICKETING,None,Joe Matthews,"Assistant Director of Ticketing, Season Ticket Services"
+bos,TICKETING,None,Jenean Rombola,Senior Manager of Ticket Services
+bos,TICKETING,None,Abigail Passeri,Senior Manager of Ticket Operations
+bos,TICKETING,None,Sean Carragher,Manager of Ticket Accounting and Administration
+bos,TICKETING,None,Peter Fahey,Manager of Ticket Fulfillment and Systems
+bos,TICKETING,None,Benjamin Dorman,Season Ticket Services Coordinator
+bos,TICKETING,None,Sarah Clark,Season Ticket Holder Account Executive
+bos,TICKETING,None,Mike Cometa,Season Ticket Holder Account Executive
+bos,TICKETING,None,Cathy Garcia,Season Ticket Holder Account Executive
+bos,TICKETING,None,Tarah Mahoney,Season Ticket Holder Account Executive
+bos,TICKETING,None,Craig Sexton,Season Ticket Holder Account Executive
+bos,TICKETING,None,Lisa Lindsay,Ticket Operations Assistant
+bos,RED SOX FOUNDATION,None,Gena Borson,Interim Executive Director and Director of Special Events
+bos,RED SOX FOUNDATION,None,Rico Mochizuki,Senior Manager of Programs and Grants
+bos,RED SOX FOUNDATION,None,Justin Prettyman,"Senior Program Manager, Red Sox Scholars"
+bos,RED SOX FOUNDATION,None,Matthew Jasie,"Academic Manager, Red Sox Scholars"
+bos,RED SOX FOUNDATION,None,Martin Cawsey,Manager of Accounting
+bos,RED SOX FOUNDATION,None,Ron Burton,"Manager of Red Sox Retreats, Ron Burton Training Facility"
+bos,RED SOX FOUNDATION,None,Michael O'Connor,Coordinator of Red Sox Foundation
+bos,RED SOX FOUNDATION,None,Tyler Petropulos,Coordinator of Red Sox Foundation
+bos,RED SOX FOUNDATION,None,Ania Burke,Executive Assistant & Event Planner
+tor,EXECUTIVE OFFICE,None,Phil Lind,"Vice Chairman, Rogers Communications Inc."
+tor,EXECUTIVE OFFICE,None,Keith Pelley,"President, Rogers Media"
+tor,EXECUTIVE OFFICE,None,Paul Beeston,"President and CEO, Toronto Blue Jays & Rogers Centre"
+tor,EXECUTIVE OFFICE,None,Alex Anthopoulos,"Senior Vice President, Baseball Operations and General Manager"
+tor,EXECUTIVE OFFICE,None,Stephen R. Brooks,"Senior Vice President, Business Operations"
+tor,EXECUTIVE OFFICE,None,Howard Starkman,"Vice President, Special Projects"
+tor,EXECUTIVE OFFICE,None,Roberto Alomar,Special Assistant to the Organization
+tor,EXECUTIVE OFFICE,None,Pat Hentgen,Special Assistant to the Organization
+tor,BASEBALL,None,Alex Anthopoulos,"Senior Vice President, Baseball Operations and General Manager"
+tor,BASEBALL,None,Tony LaCava,"Vice President, Baseball Operations and Assistant General Manager"
+tor,BASEBALL,None,Andrew Tinnish,Assistant General Manager
+tor,BASEBALL,None,Dana Brown,Special Assistant to the General Manager
+tor,BASEBALL,None,George Bell,Consultant
+tor,BASEBALL,None,Cito Gaston,Consultant
+tor,BASEBALL,None,Fred McGriff,Consultant
+tor,BASEBALL,None,Paul Quantrill,Consultant
+tor,BASEBALL,None,Heather Connolly,"Administrator, Baseball Operations"
+tor,BASEBALL,None,Anna Coppola,Executive Assistant to the GM
+tor,BASEBALL,None,Ray Karesky,"Director, Team Employee Assistance Program"
+tor,BASEBALL,None,Ron Sandelli,"Director, Team Safety"
+tor,BASEBALL,None,Mike Shaw,"Director, Team Travel and Clubhouse Operations"
+tor,BASEBALL,None,Joe Sheehan,Baseball Information Analyst
+tor,BASEBALL,None,George Poulis,Head Trainer
+tor,BASEBALL,None,Mike Frostad,Assistant Trainer
+tor,BASEBALL,None,Jeff Ross,Equipment Manager
+tor,BASEBALL,None,Kevin Malloy,Clubhouse Manager
+tor,BASEBALL,None,Len Frejlich,Visiting Clubhouse Manager
+tor,BASEBALL,None,Chris Joyner,Strength and Conditioning Coordinator
+tor,BASEBALL,None,Ryan Mittleman,"Coordinator, Advance Scouting and Video"
+tor,BASEBALL,None,Robert Baumander,Video Operations
+tor,BASEBALL,None,Brian Shaw,Team Employee Assistance Program
+tor,BASEBALL,None,Dr. Bernie Gosevitz,Medical Advisor
+tor,BASEBALL,None,Dr. Ron Taylor,Consulting Physician
+tor,BASEBALL,None,Dr. Irv Feferman,Consulting Team Physician
+tor,BASEBALL,None,Dr. Noah Forman,Consulting Team Physician
+tor,BASEBALL,None,Todd Earl,Consulting Massage Therapist
+tor,BASEBALL,None,Dr. Jonathan Gladstone,Consulting Neurologist
+tor,BASEBALL,None,Dr. Allan Gross,Consulting Orthopedic Surgeon
+tor,BASEBALL,None,Dr. Steven Mirabello,Consulting Orthopedic Surgeon
+tor,BASEBALL,None,Dr. Jason Smith,Consulting Orthopedic Surgeon
+tor,BASEBALL,None,Dr. John Theodoropoulos,Consulting Orthopedic Surgeon
+tor,BASEBALL,None,Dr. Glenn Copeland,Consulting Podiatrist
+tor,BASEBALL,None,Dr. James Fischer,Consulting Internal Medicine Physician
+tor,BASEBALL,None,Dr. Pat Graham,Consulting Chiropractor
+tor,BASEBALL,None,Dr. Mark Scappaticci,Consulting Chiropractor
+tor,BASEBALL,None,Dr. Mike Prebeg,Consulting Chiropractor
+tor,BLUEJAYS.COM,None,John Matthew IV,Marketing Producer
+tor,BUILDING SERVICES,None,Kelly Keyes,"Vice President, Building Services"
+tor,BUILDING SERVICES,None,Roger Le Blanc,Executive Assistant
+tor,BUILDING SERVICES,None,Jennifer Angiolella,"Director, Capital Projects"
+tor,BUILDING SERVICES,None,Mike Christiansen,"Manager, Technical Production & Broadcast Services"
+tor,BUILDING SERVICES,None,Steph Gagnon,"Engineer, Technical Production and  Broadcast Services"
+tor,BUILDING SERVICES,None,Kylie Kruk,"Coordinator, Capital Projects and Videoboard Production"
+tor,BUILDING SERVICES,None,Tom Farrell,Head Groundskeeper
+tor,BUSINESS AFFAIRS,None,Matthew Shuber,"Vice President, Business Affairs & Legal Counsel"
+tor,BUSINESS AFFAIRS,None,Jessica Fingerhut,"Director, Business Affairs and Legal Counsel"
+tor,BUSINESS AFFAIRS,None,Suey Lau,"Executive Assistant, Business Affairs"
+tor,COMMUNICATIONS,None,Jay Stenhouse,"Vice President, Communications"
+tor,COMMUNICATIONS,None,Mal Romanin,"Manager, Baseball Information"
+tor,COMMUNICATIONS,None,Erik Grosman,"Coordinator, Baseball Information"
+tor,COMMUNICATIONS,None,Sue Mallabon,"Coordinator, Communications"
+tor,CONVERSIONS & SHOW SERVICES,None,Frank Grespan,"Director, Conversions & Show Services"
+tor,CONVERSIONS & SHOW SERVICES,None,Scot Murdoch,"Manager, Conversions"
+tor,CONVERSIONS & SHOW SERVICES,None,Hernan Rosa,Event Set-up Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Jake Grady,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Theo Kourentas,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Tyler Letofski,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Dave Matkowski,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Tony Mucha,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Jason Nicol,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Craig Noakes,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Craig Spencer,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Rob Stiles,Field Technician
+tor,CONVERSIONS & SHOW SERVICES,None,Medlyn Parchment Sr.,Show Services Coordinator
+tor,CONVERSIONS & SHOW SERVICES,None,Tracy Trotman,Show Services Technician
+tor,CORPORATE PARTNERSHIPS,None,Mark Ditmars,"Vice President, Corporate Partnerships"
+tor,CORPORATE PARTNERSHIPS,None,John Griffin,"Director, Corporate Partnerships & Business Development"
+tor,CORPORATE PARTNERSHIPS,None,David O'Reilly,"Director, Corporate Partnerships & Business Development"
+tor,CORPORATE PARTNERSHIPS,None,Natalie Agro,"Director, Marketing Services"
+tor,CORPORATE PARTNERSHIPS,None,Mark Palmer,"Senior Manager, Corporate Partnerships & Business Development"
+tor,CORPORATE PARTNERSHIPS,None,Honsing Leung,"Senior Manager, Marketing Services"
+tor,CORPORATE PARTNERSHIPS,None,Manpreet Pandha,"Manager, Marketing Services"
+tor,CORPORATE PARTNERSHIPS,None,Jordan Cassel,"Manager, Partnership Marketing"
+tor,CORPORATE PARTNERSHIPS,None,Max Sisam,"Coordinator, Marketing Services"
+tor,CORPORATE PARTNERSHIPS,None,Darla McKeen,Executive Assistant
+tor,ENGINEERING,None,Dave McCormick,"Manager, Engineering"
+tor,ENGINEERING,None,Brittany Monague,Engineering Assistant
+tor,ENGINEERING,None,Abel Cruz,Senior Building Operator
+tor,ENGINEERING,None,KC Pang,Senior Building Operator
+tor,ENGINEERING,None,Russell Shapland,Senior Building Operator
+tor,ENGINEERING,None,Romeo Panlilio,Senior Building Operator
+tor,ENGINEERING,None,Juan Carlos Medrano,Junior Building Operator
+tor,ENGINEERING,None,Steven Lariviere,Maintenance Technician
+tor,ENGINEERING,None,Tyrone Porras,Maintenance Technician
+tor,ENGINEERING,None,Lee Brennan,Roof Technician
+tor,ENGINEERING,None,Mario Raposo,Laborer
+tor,ENGINEERING,None,Paul Zuschlag,Electrician
+tor,EVENTS,None,Kelly Keyes,"Vice President, Building Services"
+tor,EVENTS,None,Lori Parker,"Executive Assistant, Events"
+tor,EVENTS,None,Joe Novak,"Senior Director, Event Production"
+tor,EVENTS,None,Lesley Lovell,"Director, Events"
+tor,EVENTS,None,Cara Henry,"Manager, Event Planning"
+tor,EVENTS,None,Rebecca Leighton,"Manager, Event Planning"
+tor,EVENTS,None,Steph Porter,"Coordinator, Public Relations and Event Marketing"
+tor,EVENTS,None,Carol Balfour,"Coordinator, Technical Production"
+tor,FACILITY SERVICES,None,Wayne Sills,"Director, Facility Services"
+tor,FACILITY SERVICES,None,Virginia Douglas,"Manager, Facility Services"
+tor,FACILITY SERVICES,None,Billy Robertson,"Facility Services, Service Technician"
+tor,FACILITY SERVICES,None,Jonathan Cornwall,Facility Services Technician
+tor,FACILITY SERVICES,None,Rui Da Silva Cedros,Facility Services Technician
+tor,FACILITY SERVICES,None,Louis Leandro,Facility Services Technician
+tor,FACILITY SERVICES,None,Shawn MacKay,Facility Services Technician
+tor,FACILITY SERVICES,None,Bruce Standing,Facility Services Technician
+tor,FACILITY SERVICES,None,Laureta Veiga,Facility Services Technician
+tor,FACILITY SERVICES,None,Robert Price,Painter
+tor,FINANCE AND ADMINISTRATION,None,Stephen R. Brooks,"Senior Vice President, Business Operations"
+tor,FINANCE AND ADMINISTRATION,None,Donna Kuzoff,Executive Assistant
+tor,FINANCE AND ADMINISTRATION,None,Lynda Kolody,"Senior Director, Controller"
+tor,FINANCE AND ADMINISTRATION,None,Brenda Dimmer,"Director, Payroll & Benefits"
+tor,FINANCE AND ADMINISTRATION,None,Suzanne Joncas,"Director, Risk Management"
+tor,FINANCE AND ADMINISTRATION,None,Ciaran Keegan,"Senior Manager, Assistant Controller"
+tor,FINANCE AND ADMINISTRATION,None,Leslie Galant-Gardiner,Financial Business Manager (RC)
+tor,FINANCE AND ADMINISTRATION,None,Tanya Proctor,Financial Business Manager (TBJ)
+tor,FINANCE AND ADMINISTRATION,None,Craig Whitmore,"Manager, Revenue Reporting and Analysis"
+tor,FINANCE AND ADMINISTRATION,None,Sharon Dykstra,"Manager, Stadium Payroll"
+tor,FINANCE AND ADMINISTRATION,None,Joseph Roach,"Manager, Ticket Receipts and Vault Services"
+tor,FINANCE AND ADMINISTRATION,None,Emerita Flores,Accountant
+tor,FINANCE AND ADMINISTRATION,None,Mike Asadoorian,Financial Analyst
+tor,FINANCE AND ADMINISTRATION,None,Melissa Paterson,Financial Analyst
+tor,FINANCE AND ADMINISTRATION,None,Tony Phung,Payroll Financial Analyst
+tor,FINANCE AND ADMINISTRATION,None,Joyce Chan,Payroll Analyst
+tor,FLORIDA OPERATIONS,None,Shelby Nelson,"Director and General Manager, Florida Operations"
+tor,FLORIDA OPERATIONS,None,Janette Donoghue,Assistant General Manager
+tor,FLORIDA OPERATIONS,None,Gayle Gentry,Accounting Manager
+tor,FLORIDA OPERATIONS,None,Kathi Beckman,"Manager, Community Relations, Group and Retail Sales"
+tor,FLORIDA OPERATIONS,None,Mike Liberatore,"Manager, Sales"
+tor,FLORIDA OPERATIONS,None,Jonathan Valdez,"Supervisor, Ticket Sales & Operations"
+tor,FLORIDA OPERATIONS,None,Michelle Smith,Administrative Assistant/ Receptionist
+tor,FLORIDA OPERATIONS,None,Leon Harrell,Stadium Operations Supervisor
+tor,FLORIDA OPERATIONS,None,Zac Phelps,Stadium Operations Supervisor
+tor,FLORIDA OPERATIONS,None,Patrick Skunda,Head Superintendent
+tor,FLORIDA OPERATIONS,None,Matt Johnson,Assistant Superintendent
+tor,HEALTH & SAFETY,None,Ailen Taitt-Kinsey,Health & Safety Specialist
+tor,HEALTH & SAFETY,None,Tom Farrell,"Health & Safety Co-Chair, Management"
+tor,HEALTH & SAFETY,None,Billy Robertson,"Health & Safety Co-Chair, Worker"
+tor,HUMAN RESOURCES,None,Paulette Soper,"Director, Human Resources"
+tor,HUMAN RESOURCES,None,Matthew Dusureault,"Manager, Human Resources"
+tor,INFORMATION TECHNOLOGY,None,Anthony Miranda,"Senior Manager, Information Technology"
+tor,INFORMATION TECHNOLOGY,None,Donny Catinari,Voice/Data Network Operations Specialist
+tor,INFORMATION TECHNOLOGY,None,Mandeep Brar,IT Support Analyst
+tor,INFORMATION TECHNOLOGY,None,Yvan Duval,IT Support Analyst
+tor,INFORMATION TECHNOLOGY,None,Ryan Jamieson,IT Support Analyst
+tor,INFORMATION TECHNOLOGY,None,Richard Solis,IT Support Analyst
+tor,INFORMATION TECHNOLOGY,None,Mike Hawkins,IT Support Analyst
+tor,INFORMATION TECHNOLOGY,None,Katrina LeCavalier,IT Support Coordinator
+tor,JAYS CARE FOUNDATION,None,Danielle Bedasse,Executive Director
+tor,JAYS CARE FOUNDATION,None,Lauren Abesdris,"Manager, Fundraising & Development"
+tor,JAYS CARE FOUNDATION,None,Shari Ralph-Topolie,"Manager, Operations"
+tor,JAYS CARE FOUNDATION,None,Brendan Mohammed,"Manager, Programs & Outreach"
+tor,JAYS CARE FOUNDATION,None,Rebecca Harvey,Administrative Assistant
+tor,JAYS CARE FOUNDATION,None,Natalia Haskina,Finance & Database Specialist
+tor,JAYS CARE FOUNDATION,None,Cait Brenchley,Fundraising & Events Specialist
+tor,JAYS CARE FOUNDATION,None,Shonna Spicer,"Coordinator, Development & Fan Initiatives"
+tor,JAYS CARE FOUNDATION,None,Toyah Howarth,"Coordinator, Granting and Partnerships"
+tor,JAYS CARE FOUNDATION,None,Matt Warner,"Coordinator, Marketing & Communications"
+tor,JAYS CARE FOUNDATION,None,Todd Erskine,"Coordinator, Rookie League & Baseball Programs"
+tor,JAYS CARE FOUNDATION,None,Mark Bettencourt,"Coordinator, Volunteer Programs"
+tor,MARKETING & COMMUNITY RELATIONS,None,Anthony Partipilo,"Vice President, Marketing and Merchandising"
+tor,MARKETING & COMMUNITY RELATIONS,None,Maria Cresswell,"Executive Assistant, Marketing"
+tor,MARKETING & COMMUNITY RELATIONS,None,Marnie Starkman,"Director, Game Entertainment & Promotions"
+tor,MARKETING & COMMUNITY RELATIONS,None,Holly Gentemann,"Manager, Community  Marketing & Player Relations"
+tor,MARKETING & COMMUNITY RELATIONS,None,Sherry Oosterhuis,"Manager, Direct Marketing"
+tor,MARKETING & COMMUNITY RELATIONS,None,Michelle Seniuk,"Manager, Promotions and Fan Activation"
+tor,MARKETING & COMMUNITY RELATIONS,None,Rob Jack,"Manager, Social Marketing"
+tor,MARKETING & COMMUNITY RELATIONS,None,Kristy-Leigh Boone,"Manager, Special Events"
+tor,MARKETING & COMMUNITY RELATIONS,None,Daniel Joseph,"Manager, Stadium Entertainment"
+tor,MARKETING & COMMUNITY RELATIONS,None,Dave Rodgers,Sr. Graphic Designer
+tor,MARKETING & COMMUNITY RELATIONS,None,Ryan Stone,Sr. Motion Graphics Designer 
+tor,MARKETING & COMMUNITY RELATIONS,None,Andrew Gyorgyfi,Motion Graphics Designer
+tor,MARKETING & COMMUNITY RELATIONS,None,Corey McDonald,Graphic Designer
+tor,MARKETING & COMMUNITY RELATIONS,None,T.J. Burton,"Coordinator, Amateur Baseball"
+tor,MARKETING & COMMUNITY RELATIONS,None,Maureen Kinghorn,"Coordinator, Community Marketing and Player Relations"
+tor,MARKETING & COMMUNITY RELATIONS,None,Steve Whidden,"Coordinator, Special Events"
+tor,MARKETING & COMMUNITY RELATIONS,None,Jim Fanning,"Ambassador, Amateur Baseball"
+tor,MARKETING & COMMUNITY RELATIONS,None,Sean McCann,"Ambassador, Amateur Baseball"
+tor,MERCHANDISING,None,Anthony Partipilo,"Vice President, Marketing and Merchandising"
+tor,MERCHANDISING,None,Helen Maunder,"Director, Purchasing & Jays Shop Direct"
+tor,MERCHANDISING,None,Michael Andrejek,"Director, Stadium Merchandising"
+tor,MERCHANDISING,None,Teresa Michalski,"Manager, Jays Shop Gate 5 Rogers Centre"
+tor,MERCHANDISING,None,Veronica Zavala,"Manager, Jays Shop Sears Yonge & Dundas"
+tor,MERCHANDISING,None,Arto Emas,"Manager, Stadium Events"
+tor,MERCHANDISING,None,Darryl De Franco,"Manager, Warehouse Distribution"
+tor,MERCHANDISING,None,Viya Sagarakis,"Assistant Manager, Jays Shop Gate 5 Rogers Centre"
+tor,MERCHANDISING,None,John Walters,"Assistant Manager, Jays Shop Gate 5 Rogers Centre"
+tor,MERCHANDISING,None,Stephanie Thomas,Sales Supervisor
+tor,MERCHANDISING,None,Sara Webb,Sales Supervisor
+tor,MERCHANDISING,None,Diana Goucher,Merchandise Buyer
+tor,MERCHANDISING,None,Connie Hum,"Coordinator, Jays Shop Direct"
+tor,MERCHANDISING,None,Elaine King,"Coordinator, Jays Shop Direct"
+tor,MERCHANDISING,None,Ryan Fisher,"Customer Service Representative, Jays Shop Direct"
+tor,MERCHANDISING,None,Jennifer McMahon,"Customer Service Representative, Jays Shop Direct"
+tor,MERCHANDISING,None,Brittany Casals,Administrative Assistant
+tor,MERCHANDISING,None,David Costa,In-Stadium Supervisor
+tor,MERCHANDISING,None,Andrew Franchi,Warehouse Supervisor
+tor,MERCHANDISING,None,Matthew An,Warehouse Assistant
+tor,MERCHANDISING,None,Robert Murphey,"Supervisor, Rogers Centre Tours"
+tor,OFFICE SERVICES,None,Piero Aceto,Office Services Coordinator
+tor,OFFICE SERVICES,None,Sam Platsis,Office Services Coordinator
+tor,OFFICE SERVICES,None,Mary Anne Sturley,Receptionist
+tor,OFFICE SERVICES,None,Pete Gaskin,Gate 9 Security/Information
+tor,PARKING OPERATIONS,None,Michelle Gustar,"Manager, Parking"
+tor,PARKING OPERATIONS,None,Shiraz Salih,"Supervisor, Parking"
+tor,PARKING OPERATIONS,None,John Rait,Part Time Team Leader
+tor,PARKING OPERATIONS,None,Ken Chapman,Disabled Parking Services
+tor,PARKING OPERATIONS,None,Meconnen Gebremaryam,Parking Attendant
+tor,PARKING OPERATIONS,None,Yoseph Sinework,Parking Attendant
+tor,PARKING OPERATIONS,None,Tesfaldet Weldeamlak,Parking Attendant
+tor,PARKING OPERATIONS,None,Faisal Abubaker,Valet Driver
+tor,PARKING OPERATIONS,None,Tesfaye Desta,Valet Driver
+tor,PARKING OPERATIONS,None,Tesfaie Gebre,Valet Driver
+tor,PARKING OPERATIONS,None,Jamal Hassen,Valet Driver
+tor,PARKING OPERATIONS,None,Bala Viswanathan,Valet Driver
+tor,PLAYER DEVELOPMENT,None,Charlie Wilson,"Director, Minor League Operations"
+tor,PLAYER DEVELOPMENT,None,Doug Davis,Minor League Field Coordinator
+tor,PLAYER DEVELOPMENT,None,Rich Miller,Senior Roving Instructor
+tor,PLAYER DEVELOPMENT,None,Clayton McCullough,Coordinator of Instruction
+tor,PLAYER DEVELOPMENT,None,Dane Johnson,Roving Pitching Instructor
+tor,PLAYER DEVELOPMENT,None,Mike Barnett,Roving Hitting Instructor
+tor,PLAYER DEVELOPMENT,None,Mike Mordecai,Roving Infield Instructor
+tor,PLAYER DEVELOPMENT,None,Tim Raines,Roving Outfield/Baserunning Instructor
+tor,PLAYER DEVELOPMENT,None,Sal Fasano,Roving Catching Instructor
+tor,PLAYER DEVELOPMENT,None,Rick Langford,Rehab Pitching Coach
+tor,PLAYER DEVELOPMENT,None,Steve Springer,Roving Hitting Instructor
+tor,PLAYER DEVELOPMENT,None,Jeff Stevenson,Minor League Rehab Coordinator
+tor,PLAYER DEVELOPMENT,None,Donovan Santas,Minor League Strength and Conditioning Coordinator
+tor,PLAYER DEVELOPMENT,None,Scott Weberg,"Assistant, Strength & Conditioning Coordinator"
+tor,PLAYER DEVELOPMENT,None,Sandy Alomar Sr.,Consultant
+tor,PLAYER DEVELOPMENT,None,Billy Wardlow,Minor League Equipment Coordinator
+tor,PLAYER DEVELOPMENT,None,Megan Evans,Baseball Assistant
+tor,PLAYER DEVELOPMENT,None,Blake Bentley,"Assistant, Latin American Administration"
+tor,PLAYER DEVELOPMENT,None,Mike Nielsen,"Assistant, Player Development"
+tor,PLAYER DEVELOPMENT,None,Kim Marsh,Administrative Assistant
+tor,SCOUTING,None,Perry Minasian,"Director, Professional Scouting"
+tor,SCOUTING,None,Brian Parker,"Director, Amateur Scouting"
+tor,SCOUTING,None,Ismael Cruz,"Special Assistant, Latin American Operations"
+tor,SCOUTING,None,Jose Rosario,"Director, Dominican Republic"
+tor,SCOUTING,None,Luis Marquez,"Director, Venezuela"
+tor,SCOUTING,None,Chuck LaMar,"Special Assistant, Amateur Scouting"
+tor,SCOUTING,None,David Haynes,"Coordinator, Professional Scouting"
+tor,SCOUTING,None,Harry Einbinder,"Coordinator, Amateur Scouting"
+tor,SCOUTING,MAJOR LEAGUE SCOUTS,Russ Bove,Special Assignment Scout
+tor,SCOUTING,MAJOR LEAGUE SCOUTS,Jim Beattie,Major League Scout
+tor,SCOUTING,MAJOR LEAGUE SCOUTS,Sal Butera,Major League Scout
+tor,SCOUTING,MAJOR LEAGUE SCOUTS,Ed Lynch,Major League Scout
+tor,SCOUTING,MAJOR LEAGUE SCOUTS,Jim Skaalen,Major League Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Mel Didier,Senior Advisor/Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Kevin Briand,Professional Crosschecker
+tor,SCOUTING,PROFESSIONAL SCOUTING,Dean Decillis,Professional Crosschecker
+tor,SCOUTING,PROFESSIONAL SCOUTING,Dan Evans,Professional Crosschecker
+tor,SCOUTING,PROFESSIONAL SCOUTING,Jon Lalonde,Professional Crosschecker
+tor,SCOUTING,PROFESSIONAL SCOUTING,Matt Anderson,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Jon Bunnell,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Steve Connelly,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Kimball Crossley,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Bob Fontaine,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Kevin Fox,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Bryan Lambe,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Ted Lekas,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Nick Manno,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Brad Matthews,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,David May Jr.,Professional Scout
+tor,SCOUTING,PROFESSIONAL SCOUTING,Ryan Lakey,Independent League Scout
+tor,SCOUTING,AMATEUR CROSSCHECKERS,Blake Davis,National Crosschecker
+tor,SCOUTING,AMATEUR CROSSCHECKERS,Mike Mangan,National Crosschecker
+tor,SCOUTING,AMATEUR CROSSCHECKERS,Blake Crosby,Regional Crosschecker
+tor,SCOUTING,AMATEUR CROSSCHECKERS,C.J. Ebarb,Regional Crosschecker
+tor,SCOUTING,AMATEUR CROSSCHECKERS,Tim Rooney,Regional Crosschecker
+tor,SCOUTING,AMATEUR CROSSCHECKERS,Rob St. Julien,Regional Crosschecker
+tor,SCOUTING,AREA SCOUTS,"Leominster, MA",Mike Alberts
+tor,SCOUTING,AREA SCOUTS,"Fountain Valley, CA",Joey Aversa
+tor,SCOUTING,AREA SCOUTS,"Columbus, OH",Coulson Barbiche
+tor,SCOUTING,AREA SCOUTS,"Tampa, FL",Matt Bishoff
+tor,SCOUTING,AREA SCOUTS,"Conway, AR",Dallas Black
+tor,SCOUTING,AREA SCOUTS,"Elk Grove, CA",Darold Brown
+tor,SCOUTING,AREA SCOUTS,"Houston, TX",Mike Burns
+tor,SCOUTING,AREA SCOUTS,"Yakima, WA",Ryan Fox
+tor,SCOUTING,AREA SCOUTS,"Phoenix, AZ",Pete Holmes
+tor,SCOUTING,AREA SCOUTS,"Indianapolis, IN",Jeff Johnson
+tor,SCOUTING,AREA SCOUTS,"Baton Rough, LA",Brian Johnston
+tor,SCOUTING,AREA SCOUTS,"Tarboro, NC",Chris Kline
+tor,SCOUTING,AREA SCOUTS,"Aptos, CA",Randy Kramer
+tor,SCOUTING,AREA SCOUTS,"San Clemente, CA",Jim Lentine
+tor,SCOUTING,AREA SCOUTS,"Bowling Green, KY",Nate Murrie
+tor,SCOUTING,AREA SCOUTS,"Gainesville, FL",Don Norris
+tor,SCOUTING,AREA SCOUTS,"Clermont, FL",Matt O'Brien
+tor,SCOUTING,AREA SCOUTS,"Clive, IA",Wes Penick
+tor,SCOUTING,AREA SCOUTS,"Puerto Nuevo, PR",Jorge Rivera
+tor,SCOUTING,AREA SCOUTS,"Lakewood, CA",Bud Smith
+tor,SCOUTING,AREA SCOUTS,"Statesboro, GA",Mike Tidick
+tor,SCOUTING,AREA SCOUTS,"Addison, TX",Michael Wagner
+tor,SCOUTING,AREA SCOUTS,"Brooklyn, MD",Doug Witt
+tor,SCOUTING,SCOUTS - CANADA,"Delta, BC",Don Cowan
+tor,SCOUTING,SCOUTS - CANADA,"Brampton, ON",Jamie Lehman
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"East, DR",Jairo Castillo
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Oriente, VZ",Jose Contreras
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Santo Domingo, DR",Ruban Contreras
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Panama City, PA",Martin Crespo
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"San Pedro, DR",Luciano del Rosario
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Oriente, VZ",Juan Garcia
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"San Diego Valencia, VZ",Rafael Moncada
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Manoguayabo, DR",Lorenzo Perez
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Managua, Nicaragua",Daniel Sotelo
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Santo Domingo, DR",Marino Tejada
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Costa Atlantica, CO",Carlos Villalobos
+tor,SCOUTING,SCOUTS - INTERNATIONAL,"Panama City, PA",Alex Zapata
+tor,SCOUTING,VIDEO COORDINATORS,"Baltimore, MD",Joe Barbera
+tor,SCOUTING,VIDEO COORDINATORS,"Los Angeles, CA",Alan Hull
+tor,SCOUTING,VIDEO COORDINATORS,"Mount Joy, PA",Brian Matthews
+tor,SECURITY,VIDEO COORDINATORS,Robert Hamilton,"Manager, Security Operations"
+tor,SECURITY,VIDEO COORDINATORS,Ben Cumberbatch,"Supervisor, Security Operations"
+tor,SECURITY,VIDEO COORDINATORS,Bojan Fogl,Control Room Guard
+tor,SECURITY,VIDEO COORDINATORS,Althea Hussey,Control Room Guard
+tor,SECURITY,VIDEO COORDINATORS,Jennifer Jollimore,Control Room Guard
+tor,SECURITY,VIDEO COORDINATORS,Laura Morden,Control Room Guard
+tor,SECURITY,VIDEO COORDINATORS,Juri Batraks,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Desmond Buchannan,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Ryan Cobham,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Anish Dutta,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Randel Harris,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Kyle Rutherford,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,Matthew Wilson,Security Guard
+tor,SECURITY,VIDEO COORDINATORS,John Mays,Gate 3 Reception
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Mario Coutinho,"Vice President, Stadium Operations & Security"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,June Sym,"Executive Assistant, Stadium Operations & Security"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Carmen Day,"Director, Guest Experience"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Julie Minott,"Manager, Event Services"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Karyn Gottschalk,"Manager, Game Operations"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Matt Black,"Supervisor, Guest Experience"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Lisa Simons,"Coordinator, Guest Experience"
+tor,STADIUM OPERATIONS,VIDEO COORDINATORS,Marion Farrell,Administrative Assistant
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Justin Hay,"Director, Ticket Operations"
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Sheila Stella,"Director, Ticket Services"
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Christina Dodge,"Manager, Box Office"
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Eric Cowell,"Coordinator, Ticket Operations"
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Sonia Privato,"Coordinator, Ticket Services"
+tor,TICKET OPERATIONS,VIDEO COORDINATORS,Richard Overend,"Sales Analyst, Ticket Sales & Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Jason Diplock,"Vice President, Ticket Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Stacey Jackson,Executive Assistant
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Mike Hook,"Director, Luxury Suite Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Franc Rota,"Director, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Ryan Gustavel,"Manager, Group Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Erik Bobson,"Manager, Season Ticket Services"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,John Santana,"Manager, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Andrew Haley,"Account Manager, Group Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Paul Rabeau,"Account Manager, Group Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Chris Schmidt,"Account Manager, Luxury Suite Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Andy Topolie,"Account Executive, Group Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Jon Westover,"Account Executive, Group Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Al McNinch,"Account Executive, Luxury Suite Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Sara Mickle,"Account Executive, Luxury Suite Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Jeremy Zulauf,"Account Executive, Luxury Suite Sales and Service"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Jonathan Bagnell,"Account Executive, Season Ticket Services"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Kris Erickson,"Account Executive, Season Ticket Services"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Adam Hagerman,"Account Executive, Season Ticket Services"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Josh Fromstein,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Jeff Gale,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Alex Husarewych,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Glenn Jackson,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Trevor Johnson,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Mike Skrobacky,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Ryan Stevenson,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Christian Taylor,"Account Executive, Ticket Sales"
+tor,TICKET SALES & SERVICE,VIDEO COORDINATORS,Ashleigh Fraser,"Coordinator, Luxury Suite Sales and Service"
+tor,BLUE JAYS FARM CLUBS,BUFFALO BISONS,Coca Cola Field,AAA-International

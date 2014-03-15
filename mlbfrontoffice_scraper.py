@@ -10,26 +10,26 @@ teams = {	'chc': {'city': 'chicago', 'nickname': 'cubs'},
 			'tor': {'city': 'toronto', 'nickname': 'bluejays'},
 			'bos': {'city': 'boston', 'nickname': 'redsox'},
 			'nyy': {'city': 'newyork', 'nickname': 'yankees'},
-			'was': {'city': 'washington', 'nickname': 'nationals'},
-			'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
-			'oak': {'city': 'oakland', 'nickname': 'athletics'},
-			'col': {'city': 'colorado', 'nickname': 'rockies'},
-			'bal': {'city': 'baltimore', 'nickname': 'orioles'},
-			'min': {'city': 'minnesota', 'nickname': 'twins'},
-			'atl': {'city': 'atlanta', 'nickname': 'braves'},
-			'pit': {'city': 'pittsburgh', 'nickname': 'pirates'},
-			'mia': {'city': 'miami', 'nickname': 'marlins'},
-			'ana': {'city': 'losangeles', 'nickname': 'angels'},
-			'tex': {'city': 'texas', 'nickname': 'rangers'},
-			'sf': {'city': 'sanfrancisco', 'nickname': 'giants'},
-			'la': {'city': 'losangeles', 'nickname': 'dodgers'},
-			'kc': {'city': 'kansascity', 'nickname': 'royals'},
-			'mil': {'city': 'milwaukee', 'nickname': 'brewers'},
-			'cin': {'city': 'cincinnati', 'nickname': 'reds'},
-			'det': {'city': 'detroit', 'nickname': 'tigers'},
-			'nym': {'city': 'newyork', 'nickname': 'mets'},
-			'tb': {'city': 'tampabay', 'nickname': 'rays'},
-			'sea': {'city': 'seattle', 'nickname': 'mariners'},
+			#'was': {'city': 'washington', 'nickname': 'nationals'},
+			#'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
+			#'oak': {'city': 'oakland', 'nickname': 'athletics'},
+			#'col': {'city': 'colorado', 'nickname': 'rockies'},
+			#'bal': {'city': 'baltimore', 'nickname': 'orioles'},
+			#'min': {'city': 'minnesota', 'nickname': 'twins'},
+			#'atl': {'city': 'atlanta', 'nickname': 'braves'},
+			#'pit': {'city': 'pittsburgh', 'nickname': 'pirates'},
+			#'mia': {'city': 'miami', 'nickname': 'marlins'},
+			#'ana': {'city': 'losangeles', 'nickname': 'angels'},
+			#'tex': {'city': 'texas', 'nickname': 'rangers'},
+			#'sf': {'city': 'sanfrancisco', 'nickname': 'giants'},
+			#'la': {'city': 'losangeles', 'nickname': 'dodgers'},
+			#'kc': {'city': 'kansascity', 'nickname': 'royals'},
+			#'mil': {'city': 'milwaukee', 'nickname': 'brewers'},
+			#'cin': {'city': 'cincinnati', 'nickname': 'reds'},
+			#'det': {'city': 'detroit', 'nickname': 'tigers'},
+			#'nym': {'city': 'newyork', 'nickname': 'mets'},
+			#'tb': {'city': 'tampabay', 'nickname': 'rays'},
+			#'sea': {'city': 'seattle', 'nickname': 'mariners'},
 			#'hou': {'city': 'houston', 'nickname': 'astros'},
 			#'cle': {'city': 'cleveland', 'nickname': 'indians'}
 			#'sd': {'city': 'sandiego', 'nickname': 'padres'},
@@ -82,22 +82,21 @@ def get_employees(team):
 	return employees
 
 # Write data into excel file
-with open("data/mlbfrontoffices.csv", "w") as f:
+with open("data/mlbfrontoffices.csv", "w", newline='') as csvfile:
 	fieldnames = ("team", "department", "subdepartment", "employee", "title")
-	output = csv.writer(f, delimiter=",")
+	output = csv.writer(csvfile, delimiter=",")
 	output.writerow(fieldnames)
 
-#for team in teams:
-	team = 'chc'
-	employees = get_employees(team)
-	for i in range(0,len(employees)):
-		department = employees[i]['department']
-		subdepartment = employees[i]['subdepartment']
-		for j in range(0,len(employees[i]['employee'])):
-			employee = employees[i]['employee'][j]
-			title = employees[i]['title'][j]
-			output.writerow([team,department,subdepartment,employee,title])
-		print("	Done writing",team,"-",department,"-",subdepartment)
+	for team in teams:
+		employees = get_employees(team)
+		for i in range(0,len(employees)):
+			department = employees[i]['department']
+			subdepartment = employees[i]['subdepartment']
+			for j in range(0,len(employees[i]['employee'])):
+				employee = employees[i]['employee'][j]
+				title = employees[i]['title'][j]
+				output.writerow([team,department,subdepartment,employee,title])
+			print("	Done writing",team,"-",department,"-",subdepartment)
 
 
 # This gets all the team urls
