@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import json
+import csv
 
 teams = {	'chc': {'city': 'chicago', 'nickname': 'cubs'},
 			'cws': {'city': 'chicago', 'nickname': 'whitesox'},
@@ -73,21 +74,30 @@ def get_employees(team):
 			'subdepartment': subdepartment,
 			'employee': employee,
 			'title': title
-		})
+		}) # Flat dictionary format
 		#employees.append({department: {subdepartment: {
 		#	'employee': employee,
 		#	'title': title
-		#}}}) # JSON format
+		#}}}) # Nested dictionary format
 	return employees
-		
-# Get front office employees for each team
-for team in teams:
+
+# Write data into excel file
+with open("data/mlbfrontoffices.csv", "w") as f:
+	fieldnames = ("team", "department", "subdepartment", "employee", "title")
+	output = csv.writer(f, delimiter=",")
+	output.writerow(fieldnames)
+
+#for team in teams:
+	team = 'chc'
 	employees = get_employees(team)
-	#print(employees)
-	#print(json.dumps(employees[1], sort_keys=True, indent=4, separators=(',', ': ')))
-
-# Dump data into excel file
-
+	for i in range(0,len(employees)):
+		department = employees[i]['department']
+		subdepartment = employees[i]['subdepartment']
+		for j in range(0,len(employees[i]['employee'])):
+			employee = employees[i]['employee'][j]
+			title = employees[i]['title'][j]
+			output.writerow([team,department,subdepartment,employee,title])
+		print("	Done writing",team,"-",department,"-",subdepartment)
 
 
 # This gets all the team urls
