@@ -5,31 +5,42 @@ from urllib.request import urlopen
 import json
 import csv
 
-teams = {	'chc': {'city': 'chicago', 'nickname': 'cubs'},
+teams = {	# team's employees are being scraped correctly
+			'chc': {'city': 'chicago', 'nickname': 'cubs'},
 			'cws': {'city': 'chicago', 'nickname': 'whitesox'},
-			'tor': {'city': 'toronto', 'nickname': 'bluejays'},
-			'bos': {'city': 'boston', 'nickname': 'redsox'},
-			'nyy': {'city': 'newyork', 'nickname': 'yankees'},
+			#'bos': {'city': 'boston', 'nickname': 'redsox'},
 			#'was': {'city': 'washington', 'nickname': 'nationals'},
-			#'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
 			#'oak': {'city': 'oakland', 'nickname': 'athletics'},
-			#'col': {'city': 'colorado', 'nickname': 'rockies'},
 			#'bal': {'city': 'baltimore', 'nickname': 'orioles'},
-			#'min': {'city': 'minnesota', 'nickname': 'twins'},
 			#'atl': {'city': 'atlanta', 'nickname': 'braves'},
-			#'pit': {'city': 'pittsburgh', 'nickname': 'pirates'},
 			#'mia': {'city': 'miami', 'nickname': 'marlins'},
-			#'ana': {'city': 'losangeles', 'nickname': 'angels'},
-			#'tex': {'city': 'texas', 'nickname': 'rangers'},
-			#'sf': {'city': 'sanfrancisco', 'nickname': 'giants'},
 			#'la': {'city': 'losangeles', 'nickname': 'dodgers'},
 			#'kc': {'city': 'kansascity', 'nickname': 'royals'},
-			#'mil': {'city': 'milwaukee', 'nickname': 'brewers'},
-			#'cin': {'city': 'cincinnati', 'nickname': 'reds'},
 			#'det': {'city': 'detroit', 'nickname': 'tigers'},
 			#'nym': {'city': 'newyork', 'nickname': 'mets'},
-			#'tb': {'city': 'tampabay', 'nickname': 'rays'},
 			#'sea': {'city': 'seattle', 'nickname': 'mariners'},
+			
+			# need to switch employee and title
+			#'nyy': {'city': 'newyork', 'nickname': 'yankees'},
+			#'min': {'city': 'minnesota', 'nickname': 'twins'}, 
+			#'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
+			#'col': {'city': 'colorado', 'nickname': 'rockies'},
+			#'tex': {'city': 'texas', 'nickname': 'rangers'},
+			#'cin': {'city': 'cincinnati', 'nickname': 'reds'},
+			#'ana': {'city': 'losangeles', 'nickname': 'angels'},
+			#'tb': {'city': 'tampabay', 'nickname': 'rays'}, # check doug fearing
+
+			# output incomplete, missing employees
+			#'sf': {'city': 'sanfrancisco', 'nickname': 'giants'},
+			#'pit': {'city': 'pittsburgh', 'nickname': 'pirates'},
+
+			# IndexError: list index out of range in title = employees[i]['title'][j] 
+			#'tor': {'city': 'toronto', 'nickname': 'bluejays'},
+			
+			# UnicodeEncodeError: 'charmap' codec can't encode character '\x96'
+			#'mil': {'city': 'milwaukee', 'nickname': 'brewers'}, # check International Scouts
+
+			# Requires exception handling: get_employees does not work 
 			#'hou': {'city': 'houston', 'nickname': 'astros'},
 			#'cle': {'city': 'cleveland', 'nickname': 'indians'}
 			#'sd': {'city': 'sandiego', 'nickname': 'padres'},
@@ -42,8 +53,13 @@ def get_team_url(team):
 	BASE_URL = "mlb.com/team/front_office.jsp?c_id="
 	url = "".join(("http://",teams[team]['city'],".",teams[team]['nickname'],".",BASE_URL,team))
 	return(url)
+
+# This gets all the teams' base urls
+#soup = get_list("http://mlb.mlb.com/team/")
+#team_urls = [h5.a["href"] for h5 in soup.find_all("h5")]
+#print(team_urls)
 	
-# Get unordered HTML list of front office employees from url
+# Get HTML of front office employees from url
 def get_list(url):
 	html = urlopen(url)
 	soup = BeautifulSoup(html.read()).find("div", {"id": "mc"})
@@ -97,9 +113,3 @@ with open("data/mlbfrontoffices.csv", "w", newline='') as csvfile:
 				title = employees[i]['title'][j]
 				output.writerow([team,department,subdepartment,employee,title])
 			print("	Done writing",team,"-",department,"-",subdepartment)
-
-
-# This gets all the team urls
-#soup = get_list("http://mlb.mlb.com/team/")
-#team_urls = [h5.a["href"] for h5 in soup.find_all("h5")]
-#print(team_urls)
