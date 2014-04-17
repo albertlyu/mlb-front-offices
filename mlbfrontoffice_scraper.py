@@ -2,33 +2,33 @@
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-import json
+#import json
 import csv
 
 teams = {	# team's employees are being scraped correctly
 			'chc': {'city': 'chicago', 'nickname': 'cubs'},
 			'cws': {'city': 'chicago', 'nickname': 'whitesox'},
-			#'bos': {'city': 'boston', 'nickname': 'redsox'},
-			#'was': {'city': 'washington', 'nickname': 'nationals'},
-			#'oak': {'city': 'oakland', 'nickname': 'athletics'},
-			#'bal': {'city': 'baltimore', 'nickname': 'orioles'},
-			#'atl': {'city': 'atlanta', 'nickname': 'braves'},
-			#'mia': {'city': 'miami', 'nickname': 'marlins'},
-			#'la': {'city': 'losangeles', 'nickname': 'dodgers'},
-			#'kc': {'city': 'kansascity', 'nickname': 'royals'},
-			#'det': {'city': 'detroit', 'nickname': 'tigers'},
-			#'nym': {'city': 'newyork', 'nickname': 'mets'},
-			#'sea': {'city': 'seattle', 'nickname': 'mariners'},
+			'bos': {'city': 'boston', 'nickname': 'redsox'},
+			'was': {'city': 'washington', 'nickname': 'nationals'},
+			'oak': {'city': 'oakland', 'nickname': 'athletics'},
+			'bal': {'city': 'baltimore', 'nickname': 'orioles'},
+			'atl': {'city': 'atlanta', 'nickname': 'braves'},
+			'mia': {'city': 'miami', 'nickname': 'marlins'},
+			'la': {'city': 'losangeles', 'nickname': 'dodgers'},
+			'kc': {'city': 'kansascity', 'nickname': 'royals'},
+			'det': {'city': 'detroit', 'nickname': 'tigers'},
+			'nym': {'city': 'newyork', 'nickname': 'mets'},
+			'sea': {'city': 'seattle', 'nickname': 'mariners'},
 			
 			# need to switch employee and title
-			#'nyy': {'city': 'newyork', 'nickname': 'yankees'},
-			#'min': {'city': 'minnesota', 'nickname': 'twins'}, 
-			#'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
-			#'col': {'city': 'colorado', 'nickname': 'rockies'},
-			#'tex': {'city': 'texas', 'nickname': 'rangers'},
-			#'cin': {'city': 'cincinnati', 'nickname': 'reds'},
-			#'ana': {'city': 'losangeles', 'nickname': 'angels'},
-			#'tb': {'city': 'tampabay', 'nickname': 'rays'}, # check doug fearing
+			'nyy': {'city': 'newyork', 'nickname': 'yankees'},
+			'min': {'city': 'minnesota', 'nickname': 'twins'}, 
+			'phi': {'city': 'philadelphia', 'nickname': 'phillies'},
+			'col': {'city': 'colorado', 'nickname': 'rockies'},
+			'tex': {'city': 'texas', 'nickname': 'rangers'},
+			'cin': {'city': 'cincinnati', 'nickname': 'reds'},
+			'ana': {'city': 'losangeles', 'nickname': 'angels'},
+			'tb': {'city': 'tampabay', 'nickname': 'rays'}, # check doug fearing
 
 			# output incomplete, missing employees
 			#'sf': {'city': 'sanfrancisco', 'nickname': 'giants'},
